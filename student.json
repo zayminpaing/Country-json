@@ -1,20 +1,17 @@
 [
 	{
 		"student_id": "1",
-		"student_name": "Zay Min Paing",
+		"student_name": "Aung Myo Than",
 		"student_age": "18"
 	},
 	{
 		"student_id": "2",
-		"student_name": "Aung Myo Than",
+		"student_name": "Zay Min Paing",
 		"student_age": "18"
 	},
 	{
 		"student_id": "3",
 		"student_name": "Cho Phoo Wai",
 		"student_age": "22"
-	},
-	{
-		"student_id": ""
 	}
 ]
