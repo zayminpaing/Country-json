@@ -1,0 +1,73 @@
+[
+	{
+		"sub_category_id": 1,
+		"sub_category_name": "English",
+		"category_id": 1
+	},
+	{
+		"sub_category_id": 2,
+		"sub_category_name": "Japanese",
+		"category_id": 1
+	},
+	{
+		"sub_category_id": 3,
+		"sub_category_name": "Korea",
+		"category_id": 1
+	},
+	{
+		"sub_category_id": 4,
+		"sub_category_name": "Programing",
+		"category_id": 2
+	},
+	{
+		"sub_category_id": 5,
+		"sub_category_name": "A+",
+		"category_id": 2
+	},
+	{
+		"sub_category_id": 6,
+		"sub_category_name": "Computer Application",
+		"category_id": 2
+	},
+	{
+		"sub_category_id": 7,
+		"sub_category_name": "Web Development & Web Design",
+		"category_id": 2
+	},
+	{
+		"sub_category_id": 8,
+		"sub_category_name": "Network",
+		"category_id": 2
+	},
+	{
+		"sub_category_id": 9,
+		"sub_category_name": "Finance and Business",
+		"category_id": 4
+	},
+	{
+		"sub_category_id": 10,
+		"sub_category_name": "HR",
+		"category_id": 4
+	},
+	{
+		"sub_category_id": 11,
+		"sub_category_name": "Revit",
+		"category_id": 3
+	},
+	{
+		"sub_category_id": 12,
+		"sub_category_name": "M & E",
+		"category_id": 3
+	},
+	{
+		"sub_category_id": 13,
+		"sub_category_name": "Auto CAD",
+		"category_id": 3
+	},
+	{
+		"sub_category_id": 14,
+		"sub_category_name": "PLC",
+		"category_id": 3
+	}
+
+]
