@@ -1396,7 +1396,7 @@
 		"fee": 180000,
 		"isWeekend":1,
 		"learning_center_id":27,
-		"requirements": " ",
+		"requirement": " ",
 		"sub_category_id":9,
 		"category_id":4
 	},
@@ -1413,7 +1413,7 @@
 		"fee": 210000,
 		"isWeekend":0,
 		"learning_center_id":27,
-		"requirements": " ",
+		"requirement": " ",
 		"sub_category_id":9,
 		"category_id":4
 	},
@@ -1430,7 +1430,7 @@
 		"fee": 0,
 		"isWeekend":2,
 		"learning_center_id":28,
-		"requirements": " ",
+		"requirement": " ",
 		"sub_category_id":12,
 		"category_id":3
 	}
