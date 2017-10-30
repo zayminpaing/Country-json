@@ -104,7 +104,7 @@
 	{
 		"course_id": 7,
 		"course_name": "LCCI Level 1 , 2 & 3 ",
-		"course_outline": "",
+		"course_outline": " ",
 		"description": "June & July Exam 2018 အတွက် တန်းခွဲများ",
 		"duration": "60 hours",
 		"date_day":9,
@@ -414,7 +414,7 @@
 	{
 		"course_id": 25,
 		"course_name": "Web Design Course",
-		"course_outline": "",
+		"course_outline": " ",
 		"description": "Photoshop ကိုု အသုုံးပြုပြီး Web Template များကိုု ဖန်တီးချင်သူများ၊ မိမိကိုုယ်တိုုင်ဖန်တီးထားသော Web Template များကိုု HTML, CSS, JavaScript, jQuery အသုံုးပြုကာ Web Browser များတွင် မည်ကဲ့သိုု့ အလုုပ်လုုပ်သည်ကိုုလေ့လာချင်သူများ၊ Web Designer နှင့် Front-End Developer ဖြစ်ချင်သူများ၊ တက်သင့်သော သင်တန်းဖြစ်သည်။ Photoshop ကိုု အသုံုးပြုပြီး Web Template များဖန်တီးတည်ဆောက်ပုံု၊ UI/UX သဘောတရားများကိုု အခြေခံမှစပြီး သင်ကြားပေးသော သင်တန်းဖြစ်သည်။HTML, CSS element များကိုု အခြေခံမှ စတင်သင်ကြားပေးမှာဖြစ်ပြီး CSS framework တစ်ခုုဖြစ်သော Bootstrap ကိုု အသုံုးပြုကာ Responsive Website တစ်ခုုကိုု တည်ဆောက်နိုုင်သည်အထိ သင်ကြားပေးသောသင်တန်းဖြစ်သည်။ သင်တန်းကာလအတွင်းတွင်လည်း UI Template များ၊ Website Template Design များကိုု ဆရာနှင့်အတူ ဖန်တီးသွားမည်ဖြစ်သည်။Template များကိုု HTML",
 		"duration": "3 months ",
 		"date_day":4,
@@ -552,7 +552,7 @@
 	{
 		"course_id": 33,
 		"course_name": "M&E Coordination",
-		"course_outline": "",
+		"course_outline": " ",
 		"description": " ",
 		"duration": "3 months",
 		"date_day":12,
@@ -1248,7 +1248,7 @@
 		"category_id":1
 	},
 	{
-		"course_id": 77,
+		"course_id": 74,
 		"course_name": "English Speaking",
 		"course_outline": " ",
 		"description": " ",
@@ -1265,7 +1265,7 @@
 		"category_id":1
 	},
 	{
-		"course_id": 78,
+		"course_id": 75,
 		"course_name": "English Speaking",
 		"course_outline": " ",
 		"description": " ",
@@ -1282,7 +1282,7 @@
 		"category_id":1
 	},
 	{
-		"course_id": 79,
+		"course_id": 76,
 		"course_name": "English 4 Skills (Basic)",
 		"course_outline": " ",
 		"description": " ",
@@ -1299,7 +1299,7 @@
 		"category_id":1
 	},
 	{
-		"course_id": 80,
+		"course_id": 77,
 		"course_name": "Basic Grammar",
 		"course_outline": " ",
 		"description": " ",
@@ -1316,7 +1316,7 @@
 		"category_id":1
 	},
 	{
-		"course_id": 81,
+		"course_id": 78,
 		"course_name": "English(Pre Intermediate)",
 		"course_outline": " ",
 		"description": " ",
@@ -1333,7 +1333,7 @@
 		"category_id":1
 	},
 	{
-		"course_id": 82,
+		"course_id": 79,
 		"course_name": "English(Intermediate)",
 		"course_outline": " ",
 		"description": " ",
@@ -1350,7 +1350,7 @@
 		"category_id":1
 	},
 	{
-		"course_id": 83,
+		"course_id": 80,
 		"course_name": "M&E Drafting and Management Course",
 		"course_outline": " ",
 		"description": "Project Based ဖြစ်တာကြောင့် ကိုယ်ပိုင် Laptop ယူလာရပါမယ်။ ယူလာလို့ အဆင်မပြေတဲ့သူများကတော့ သင်တန်းက စီစဉ်ပေးနိုင်အောင်ကြိုးစားပါ့မယ်။ ဒါပေမယ့် Limitation ရှိတာကြောင့် သင်တန်း Laptop သုံးမည့်သူများက ဖြစ်နိုင်ရင် Register လုပ်ပြီး Laptop ယူမည့်အကြောင်းပြောပေးဖို့ မေတ္တာရပ်ခံပါတယ်။ Registration ကိုတော့ လှည်းတန်းခိုင်ရွှေဝါလမ်းထဲက BIM ACE Center 02 မှာလက်ခံနေပါပြီ။ (Friday နဲ့ Public Holiday တော့ Registration ပိတ်ပါတယ်။ ",
@@ -1367,7 +1367,7 @@
 		"category_id":3
 	},
 	{
-		"course_id": 84,
+		"course_id": 81,
 		"course_name": "Diploma In Business Skills",
 		"course_outline": "စီမံခန့်ခွဲသူကောင်းတစ်ယောက်ဖြစ်လိုသူများအတွက် Diploma In Business Skills အတွက် Discount နှင့် သင်တန်းကြေးသက်သာခွင့်များ။ တက်ရောက်သင့်သူများ ။ ။ ကိုယ်ပိုင်လုပ်ငန်းလုပ်ကိုင်နေသူများ၊ လုပ်ငန်းခွင်တွင်မှ Manager များနှင့် Management Career ကိုစနစ်တကျ လျောက်လှမ်းလိုသူ များ၊ MBA တက်ရောက်ရန် အခြေခံရရှိထားလိုသူများ တက်ရောက်သင့်ပါတယ်။ %တက်ရောက်သင့်တဲ့အကြာင်းရင်း ။ ။ အရည်အချင်းပြည့်ဝတဲ့ စီမံခန့်ခွဲသူ တစ်ယောက်အနေနဲ့ ကိုယ်ရဲ့Department တစ်ခုတည်းသာမကပဲ၊ လုပ်ငန်းခွင်အတွင်းမှာရှိတဲ့ Function တစ်ခုချင်းစီရဲ့လည်ပတ်ပုံ နဲ့ Department တစ်ခုနှင့်တစ်ခု ချိတ်ဆက်ပုံများ အပြင် လုပ်ငန်းတစ်ခုလုံးရဲ့စီမံခန့်ခွဲပုံ ကိုနားလည်သဘောပေါက်စေရန်။ %Diploma ပေးအပ်မည့်အဖွဲ့အစည်း ။ ။ Eduqual Uk သည် Federation of Awarding Bodies ၏ အဖွဲ့ဝင်ဖြစ်ပြီး အရည်အသွေးကောင်းမွန်သော၊ နိုင်ငံတကာအသိအမှတ်ပြု စီးပွားရေးပညာရပ်များကိုသင်ကြားပို့ချပေးနေသော ပညာရေး အဖွဲ့အစည်းတစ်ခုဖြစ်သည်။ င်္FAB ၏အဖွဲ့ဝင်များတွင် Ofqual, CCEA, Welsh Government နှင့် SQA အသိအမှတ်ပြုအဖွဲ့အစည့်းများပါ၀င်သည်။&အရည်အသွေးသတ်မှတ်ချက် ။ ။ UK, Scotland နိုင်ငံအစိုးရထံရဲ ့ ပညာရေး ကြီးကြပ်မှုအဖွဲ ့အစည်းတစ်ခုဖြစ်တဲ့ SQA မှ SCQF Level 7 အရည်အသွေး စီစစ်သတ်မှတ်ထားပြီးဖြစ်ပါတယ်။",
 		"description": " ",
@@ -1384,7 +1384,7 @@
 		"category_id":4
 	},
 	{
-		"course_id": 85,
+		"course_id": 82,
 		"course_name": "CIMA Certificate in Business Accounting",
 		"course_outline": "သင်ဟာ LCCI Level 3 ပြီးထားသူတစ်ယောက်ဆို LCCI နှင့် CIMA တို့ရဲ့ အထူးပူးပေါင်းဆောင်ရွက်မှုအနေဖြင့် #ဘာသာရပ်တစ်ခုသာဖြေဆိုပြီး CIMA Certificate in Business Accounting ရယူနိုင်ပါပြီ။ နိုင်ငံတကာအဆင့် နယ်ပယ်စုံမှာ အမြင့်မားဆုံး ရာထူးများ ရရှိနိုင်သော Chartered Global Management Accountant (CGMA) တစ်ယောက်ဖြစ်ရန် ပထမခြေလှမ်း လှမ်းလိုက်ပြီးသား ဖြစ်သွားပါမယ်။",
 		"description": " 15 Nov: မတိုင်မီထိ တစ်ဦးချင်း အပ်နှံသူများအတွက် Early Bird Discount 10% နှင့် ၅ ယောက်နှင့် အထက် အပ်နှံသူများအတွက် 15% Discount များရယူနိုင်ပါပြီ။)%#CIMA မှတ်ပုံတင်ကြေး၊ စာမေးပွဲကြေး၊ နှစ်စဉ်ကြေး များအတွက် စတာလင်ပေါင် ၁၀၀ (by 70% Discount)%** Weekday အတန်းမတက်နိုင်သူများလည်း Weekend အတန်းများ ထပ်မံဖွင့်လှစ်ပေးမှာဖြစ်လို့ ဆက်သွယ်စာရင်းပေး အပ်နှံနိုင်ပါတယ်...",
@@ -1401,7 +1401,7 @@
 		"category_id":4
 	},
 	{
-		"course_id": 86,
+		"course_id": 83,
 		"course_name": "CPA Part I",
 		"course_outline": " Business Mathematics and Statistics% Commercial and Industrial Laws% Financial and Services Regulation စသည့် ဘာသာရပ် ၃ခု ကို လုံးဝ မတက်ရသေးသော Self Study ကျောင်းသားများ၊ ယခုအချိန်အထိ ၄င်းဘာသာရပ်များအပေါ် စိတ်မအေးရသေးသော ကျောင်းသားများ အားလုံး အတွက် သေချာ ရှင်းလင်းနားလည်အောင် သင်ကြား ပေးမည့် ၀ါရင့်ဆရာကြီးများနှင့် အနီးကပ်သင်တန်းကို ဒီဇင်ဘာတွင် ဖွင့်လှစ် သင်ကြားပေးမည်ဖြစ်ပါသည်။",
 		"description": " FRSR - 80000, Law - 50000, Stat - 80000 အပြတ်ပါ.. စာအုပ်စာတမ်းများ၊ မေးခွန်းဟောင်းများ အားလုံး ပါ၀င်ပြီး ဖြစ်ပါတယ်.. ၃ ကြိမ် ခွဲသွင်းနိုင်ပါတယ်..",
@@ -1418,8 +1418,8 @@
 		"category_id":4
 	},
 	{
-		"course_id": 87,
-		"course_name": "",
+		"course_id": 84,
+		"course_name": "Engineering Course",
 		"course_outline": "တက်ရောက်နိုင်သော သင်တန်းများ-%1. AutoCAD General Course%2. AutoCAD Civil/ Architecture Course%3. M&E Intermediate Course%4. M&E Advance Course%5. Revit MEP/ Architecture%6. 3ds Max Course%7. MicroStation Course%8. Google SketchUp Course%9. C++Programming Course%10. Plumbing & Sanitary / Fire Fighting Installation%11. Electrical Installation",
 		"description": "MMK ENGINEERING TRAINING CENTER တွင် မည်သည့်သင်တန်းမဆို သူငယ်ချင်းများ အဖွဲ့လိုက် ၂ ယောက်မှ စရျ် တက်မယ့်သူအရေအတွက်ပေါ်မူတည်ပြီး⭐️Discount ⭐️ရှိပါတယ်။%မည်သည့်သင်တန်းအတွက်မဆို-%👉🏻သင်တန်းသားဦးရေ (၂) ယောက် အတွက် 2% Discount မှစပြီး သင်တန်းသားအရေအတွက်အလိုက် Discount များကို (၁၅.၉.၂၀၁၇) မှစပြီး (၃၀.၁၀.၂၀၁၇)ထိ ပေးမှာဖြစ်ပါတယ်။%👉🏻ကျောင်းသားဟောင်းများအနေနဲ့တော့ မိမိတစ်ဦးတည်းလာရောက်အပ်နှံခြင်းအတွက်ကိုပင် 10% Discount ရမှာဖြစ်ပြီး အဖွဲ့လိုက် ၁၀ယောက်ကျော်မှသာလျှင် အရေအတွက်အလိုက် Discount % တိုးမည်ဖြစ်ပါတယ်။",
 		"duration": " ",
