@@ -1,4 +1,4 @@
-[
+﻿[
 	{
 		"learning_center_id": 1,
 		"learning_center_name": "SG CAD Engineering Training Center",
@@ -118,7 +118,7 @@
 		"learning_center_name": "ACE Insperation",
 		"email": "info@aceinspiration.com",
 		"phone": "09253257742",
-		"location": " No-210,Insein Road  Near Than Lane Bus-Stop",
+		"location": " No-210,Insein Road  Near Than Lane Bus-Stop",
 		"facebook_id": 1009255359105260,
 		"about": "",
 		"link": "https://raw.githubusercontent.com/samsungtech/Country-json/master/ace_insperation.jpg"
@@ -292,6 +292,16 @@
 		"facebook_id": 475164192511377,
 		"about": "",
 		"link": "https://raw.githubusercontent.com/samsungtech/Country-json/master/mmk_engineering_taining_center.jpg"
+	},
+	{
+		"learning_center_id": 29,
+		"learning_center_name": "INTERNATIONAL ENGLISH LANGUAGE SCHOOL",
+		"email": "",
+		"phone": "09973505943",
+		"location": "တိုက်(၃၀)၊၃လွှာ၊ဦးထွန်းလင်းခြံလမ်း၊လှည်းတန်း၊ရန်ကုန်။",
+		"facebook_id": 0,
+		"about": "",
+		"link": "https://raw.githubusercontent.com/samsungtech/Country-json/master/international_learning_center.png"
 	}
 
 
