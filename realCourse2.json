@@ -32,7 +32,7 @@
 		"learning_center_id": 6,
 		"requirements": " ",
 		"sub_category_id":9,
-		"category_id":4
+		"category_id":1
 	},
 	{
 		"course_id": 3,
@@ -118,7 +118,7 @@
 		"learning_center_id": 6,
 		"requirements": " ",
 		"sub_category_id":9,
-		"category_id":4
+		"category_id":1
 	},
 	{
 		"course_id": 8,
@@ -135,7 +135,7 @@
 		"learning_center_id": 6,
 		"requirements": " ",
 		"sub_category_id":9,
-		"category_id":4
+		"category_id":1
 	},
 	{
 		"course_id": 9,
@@ -203,7 +203,7 @@
 		"learning_center_id": 6,
 		"requirements": " ",
 		"sub_category_id":9,
-		"category_id":4
+		"category_id":1
 	},
 	{
 		"course_id": 13,
@@ -220,7 +220,7 @@
 		"learning_center_id": 6,
 		"requirements": " ",
 		"sub_category_id":9,
-		"category_id":4
+		"category_id":1
 	},
 	{
 		"course_id": 14,
@@ -288,7 +288,7 @@
 		"learning_center_id": 6,
 		"requirements": " ",
 		"sub_category_id":9,
-		"category_id":4
+		"category_id":1
 	},
 	{
 		"course_id": 18,
@@ -305,7 +305,7 @@
 		"learning_center_id": 6,
 		"requirements": " ",
 		"sub_category_id":9,
-		"category_id":4
+		"category_id":1
 	},
 	{
 		"course_id": 19,
@@ -374,7 +374,7 @@
 		"learning_center_id": 6,
 		"requirements": " ",
 		"sub_category_id":9,
-		"category_id":4
+		"category_id":1
 	},
 	{
 		"course_id": 23,
@@ -408,7 +408,7 @@
 		"learning_center_id": 6,
 		"requirements": " ",
 		"sub_category_id":9,
-		"category_id":4
+		"category_id":1
 	},
 	{
 		"course_id": 25,
@@ -493,7 +493,7 @@
 		"learning_center_id": 6,
 		"requirements": " ",
 		"sub_category_id":9,
-		"category_id":4
+		"category_id":1
 	},
 	{
 		"course_id": 30,
@@ -632,7 +632,7 @@
 		"learning_center_id": 6,
 		"requirements": " ",
 		"sub_category_id":9,
-		"category_id":4
+		"category_id":1
 	},
 	{
 		"course_id": 38,
@@ -717,7 +717,7 @@
 		"learning_center_id": 6,
 		"requirements": " ",
 		"sub_category_id":9,
-		"category_id":4
+		"category_id":1
 	},
 	{
 		"course_id": 42,
