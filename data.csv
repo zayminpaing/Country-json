@@ -1,14 +1,12 @@
 No.,Ticket ID,User name,Email/Ph:,Company,Department,Project Name,Issue Description ,Assign Person,Open Date ,Resolved Date ,Resolution,Solved by,Close Date,Support Type,Remark,DOW
-717,T0717,Pyae Paing Soe,pyaepaingsoe@myanmasanpya.com,MSCN,Finance/Account,SAP,Cannot open excel file due to not defined all access for Users,MMC,01-Sep-20,01-Sep-20,Define all access for Users in Excel,MMC,24-Sep-20,Admin Portal,,3
-724,T0724,Haymar Thein Tan,haymartheintan@myanmarsanpya.com,MSCN,Customer Service/Order Processor,User Support,Outlook Setup and auto shutdown,WNWH,02-Sep-20,02-Sep-20,Outlook Setup,WNWH,02-Sep-20,Direct Support,,4
-753,T0753,Soe Wunna Zaw,soewunnazaw@evo-gro.com,Evo,Marketing,User Support,Teams Error,WNWH,07-Sep-20,07-Sep-20,Teams Setup,WNWH,07-Sep-20,Remote,,2
-823,T0823,Ei Phyo Zin,eiphyozin@myanmarsanpya.com,MSCN,Customer Service/Order Processor,User Support,Keyboard Key Conflict Issue,NDH,12-Sep-20,12-Sep-20, Give direction how to fix with Scr Lk,NDH,12-Sep-20,Phone Call,,7
-849,T0849,Ye Win Htun,yewinhtun@myanmarsanpya.com,MSCN,Marketing,User Support,Outlook Safe Mode Conflict Error,NDH,14-Sep-20,14-Sep-20,Offie 2019 Repair and Fix,NDH,14-Sep-20,Remote,,2
-861,T0861,Cho Zin Wai,chozinwai@myanmarsanpya.com,MSCN,Finance/Account,User Support,Office 365 Setup,WNWH,15-Sep-20,15-Sep-20,Office 365 Setup,WNWH,15-Sep-20,Remote,,3
-864,T0864,Nang Thinda Oo,nangthidaoo@myanmarsanpya.com,MSCN,Finance/Account,IT Support,Office 365 Email Create,KSL,15-Sep-20,15-Sep-20,Create from admin portal,KSL,15-Sep-20,Admin Portal,,3
-868,T0868,Zin Mar Lwin Htay,zinmarlwinhtay@myanmarsanpya.com,MSCN,Admin,Denko,Quota update request,KHN,01-Sep-20,03-Sep-20,Update Quota,KHN,24-Sep-20,Admin Portal,,3
-880,T0880,Soe wanna Zaw,soewannazaw@myanmarsanpya.com,MSCN,Marketing,User Support,Office issue,AKM,15-Sep-20,15-Sep-20,restart the computer,AKM,15-Sep-20,Phone Call,,3
-999,T0999,Ei Phyo Zin,eiphyozin@myanmarsanpya.com,MSCN,Finance/Account,User Support,Myanmar Fonts Error,WNWH,28-Sep-20,28-Sep-20,Myanmar Font Fixed,WNWH,28-Sep-20,Remote,,2
-1006,T1006,Khaing Khaing San,khaingkhaingsan@evo-gro.com,Evo,Finance/Account,User Support,Scanner Setup,WNWH,29-Sep-20,29-Sep-20,Scanner Setup,WNWH,29-Sep-20,Remote,,3
-1010,T1010,Yan Naing Min,yannaingmin@evo-gro.com,Evo,Marketing,User Support,Excel cannot use,NDH,30-Sep-20,30-Sep-20,Office Crack and Fixed,NDH,30-Sep-20,Remote,,4
-1011,T1011,Han Zaw Min,hanzawmin@myanmasanpya.com,MSCN,Marketing,User Support,Excel cannot open,NDH,30-Sep-20,30-Sep-20,Office Full Repair,NDH,30-Sep-20,Remote,,4
+729,T0729,Hsu Myat Thu,hsumyatthu@ayeyarwaddyseeds.com,ASIC,HR,User Support,Zoom Plugin Setup,WNWH,02-Sep-20,02-Sep-20,Zoom Plugin Setup,WNWH,02-Sep-20,Direct Support,,4
+733,T0733,U Soe Than,soethan@ayeyarwaddyseeds.com,ASIC,Management,User Support,blocking suspicious domain and email address,TMMH,03-Sep-20,03-Sep-20,Block Domain and address from portal,TMMH,03-Sep-20,Admin Portal,,5
+828,T0828,Wyne,,Pahtama Seed,Admin,Loyalty,Ayeyarwaddy seed item supporting in CMS,ACM,02-Sep-20,02-Sep-20,Export item data from loyalty 1.0 CMS,ACM,02-Sep-20,Admin Portal,,4
+862,T0862,Tin Tin Lin,tintinlin@awba-group.com,Pahtama Seed,Finance/Account,User Support,Email Send Error,NDH,15-Sep-20,15-Sep-20,Mail Setting Check / Email Reset and Test ,NDH,15-Sep-20,Remote,,3
+889,T0889,Hsu Myat Thu,hsumyatthu@ayeyarwaddyseeds.com,ASIC,HR,User Support,Outlook Offline,WNWH,16-Sep-20,16-Sep-20,Outlook Offline Fixed,WNWH,16-Sep-20,Remote,,4
+943,T0943,Ma Ngu War Khaing,nguwarkhaing@awba-group.com,ASIC,Finance/Account,SAP,Preparation for PS and ASIC Testing,MMC,21-Sep-20,22-Sep-20,Creat New Account in UAT_AWBA with Username - PSCA / Password - 1234,MMC,10/2/2020,Admin Portal,,2
+969,T0969,Hsu Myat Thu,hsumyatthu@ayeyarwaddyseeds.com,Pahtama Seed,HR,User Support,Remove Outlook Profile/ SignOut from Excel and Unlink OneDrive from Old PC,NDH,24-Sep-20,24-Sep-20,Remove Outlook Profile/ SignOut from Excel and Unlink OneDrive from Old PC,NDH,9/24/2020,Remote,,5
+973,T0973,Emerald,emerald@awba-group.com,ASIC,Marketing,User Support,Excel Issue,WNWH,24-Sep-20,24-Sep-20,Excel Issue Fixed,WNWH,9/24/2020,Remote,,5
+976,T0976,Hsu Myat Thu,hsumyatthu@ayeyarwaddyseeds.com,Pahtama Seed,HR,User Support,Office Install/ Zoom Install/ Mail Setup and  OneDrive Setup/ Zoom Setup in New PC,NDH,24-Sep-20,24-Sep-20,Office Install/ Zoom Install/ Mail Setup and Zoom Setup in New PC,NDH,9/24/2020,Remote,,5
+992,T0992,Wyne,grace@awba-group.com,Pahtama Seed,Production,Loyalty ,PS Item Code Create,ACM,26-Sep-20,26-Sep-20,AS1325C-A-OT-SD020KG/ Chickpea Yezin 11 20KG/ Item code create,ACM,26-Sep-20,Admin Portal,,7
+993,T0993,Wyne,grace@awba-group.com,Pahtama Seed,Production,Loyalty ,PS Item Code Create,ACM,26-Sep-20,26-Sep-20,AS1325D-A-OT-SD020KG/ Chickpea Yezin 12 20KG/ Item code create,ACM,26-Sep-20,Admin Portal,,7
