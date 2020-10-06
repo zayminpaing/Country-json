@@ -1,38 +1,81 @@
 No.,Ticket ID,User name,Email/Ph:,Company,Department,Project Name,Issue Description ,Assign Person,Open Date ,Resolved Date ,Resolution,Solved by,Close Date,Support Type,Remark,DOW
-712,T0712,Tharaphie Aung,tharaphieaung@wisarra.com,WSR,Finance/Account,User Support,Viber Web App Needed ,NDH,01-Sep-20,01-Sep-20,Viber Setup and Install,NDH,01-Sep-20,Remote,,3
-725,T0725,Tharaphie Aung,tharaphieaung@wisarra.com,WSR,Finance/Account,User Support,New PC Setup,WNWH,02-Sep-20,02-Sep-20,New PC Setup,WNWH,02-Sep-20,Direct Support,,4
-758,T0758,Sin Phyu Kyun Sale Center,sinphyukyunsalecenter@wisarra.email,WSR,Marketing,User Support,Email Error,WNWH,07-Sep-20,07-Sep-20,Email issue fixed,WNWH,7-Sep-20,Remote,,2
-761,T0761,Nwe Nwe Oo,nwenweoo@wisarra.com,WSR,Finance/Account,User Support,Forticlient / Outlook and Teams Setup ,WNWH,07-Sep-20,07-Sep-20,Forticlient /Outlook and Teams Setup,WNWH,7-Sep-20,Remote,,2
-771,T0771,Yee Mon Khaing,yeemonkhaing@wisarra.email,WSR,Finance/Account,User Support,Network Issue,WNWH,09-Sep-20,09-Sep-20,Network Issue Fixed,WNWH,9-Sep-20,Admin Portal,,4
-776,T0776,Nwe Nwe Oo,nwenweoo@wisarra.com,WSR,Finance/Account,User Support,Window Repair and Office Crack,NDH,09-Sep-20,09-Sep-20,Office 2016 Install and Setup,NDH,9-Sep-20,Remote,,4
-794,T0794,Saw Myat Nwe,sinphyukyunsalecenter@wisarra.email,WSR,Marketing,User Support,Email Send / Receive Error,NDH,10-Sep-20,10-Sep-20,Mail Profile Re-Setup and Reset the Outlook,NDH,10-Sep-20,Remote,,5
-796,T0796,Nwe Nwe Oo,nwenweoo@wisarra.com,WSR,Finance/Account,User Support,Laptop Window Shutdown Issue,NDH,10-Sep-20,16-Sep-20,Give Action to go to Service Center,NDH,16-Sep-20,Communication Apps,,5
-803,T0803,Hnin Yu Yu Aung,hninyuyuaung@wisarra.com,WSR,Finance/Account,SAP,Request the new two logistic license,MMC,08-Sep-20,21-Sep-20,,,24-Sep-20,,,3
-815,T0815,Lu Min Han,gti-nyaungtonewarehouse@wisarra.email,WSR,Warehouse,User Support,Email Offline Work Error,NDH,11-Sep-20,11-Sep-20,Change to Online Work and mail setting fix,NDH,11-Sep-20,Remote,,6
-818,T0818,Nwe Nwe Oo,nwenweoo@wisarra.com,WSR,Finance/Account,User Support,Set Email Account to Ma Nyein's old laptop,NDH,11-Sep-20,11-Sep-20,Mail profile setup ,NDH,11-Sep-20,Remote,,6
-826,T0826,Nwe Nwe Oo,nwenweoo@wisarra.com,WSR,Finance/Account,User Support,File and apps are crack in Ma Nyein's old laptop,NDH,12-Sep-20,12-Sep-20,Scan Virus/ and Explain the cause of Del Keybord Error ,NDH,12-Sep-20,Remote,,7
-850,T0850,Nwe Nwe Oo,nwenweoo@wisarra.com,WSR,Finance/Account,User Support,Office Activate Fail in Ma Moh's Old PC,NDH,14-Sep-20,14-Sep-20,Office Crack,NDH,14-Sep-20,Remote,,2
-860,T0860,Thein Thein Khine,theintheinkhine@wisarra.com,WSR,Finance/Account,User Support,Office Activate Failed,WNWH,15-Sep-20,15-Sep-20,Office Crack,WNWH,15-Sep-20,Remote,,3
-866,T0866,Thet Thet Oo,thetthetoo@wisarra.com,WSR,Admin,Denko,Quota update request,KHN,01-Sep-20,03-Sep-20,Update Quota,KHN,24-Sep-20,Admin Portal,,3
-891,T0891,Nwe Nwe Oo,nwenweoo@wisarra.com,WSR,Finance/Account,User Support,Office 2016 Install/ Forticlient Install and Setup,NDH,16-Sep-20,16-Sep-20,Office 2016 Install/ Forticlient Install and Setup,NDH,16-Sep-20,Remote,,4
-897,T0897,Nwe Nwe Oo,nwenweoo@wisarra.com,WSR,Finance/Account,User Support,Virus,WNWH,17-Sep-20,17-Sep-20,Virus Cleaning,WNWH,17-Sep-20,Remote,,5
-910,T0910,Tharaphie Aung,tharaphieaung@wisarra.com,WSR,Finance/Account,User Support,Teams Error Urgent,NDH,17-Sep-20,17-Sep-20,Login with browser and Give guideline,NDH,17-Sep-20,Remote,,5
-914,T0914,Depar Wai Phyo,deparwaiphyo@wisarra.com,WSR,Marketing,User Support,Wifi Issue,wnwh,18-Sep-20,18-Sep-20,Wifi Driver Fixed,WNWH,18-Sep-20,Phone Call,,6
-920,T0920,Nwe Nwe Oo,nwenweoo@wisarra.com,WSR,Finance/Account,SAP,VPN can't connect because of wrong port,MMC,18-Sep-20,18-Sep-20,Update the correct port number,MMC,10/2/2020,,,6
-923,T0923,Tharaphie Aung,tharaphieaung@wisarra.com,WSR,Finance/Account,User Support,Virus Check and Fix,NDH,18-Sep-20,18-Sep-20,Virus Check with SMADAV and Fix,NDH,18-Sep-20,Remote,,6
-938,T0938,Ma Phyo Yupar Maung,phyoyuparmg@wisarra.email,WSR,Customer Service/Order Processor,SAP,To set up required accounts for new license,MMC,21-Sep-20,21-Sep-20,Validate FortiClient Credentials/ Change to new Remote Account/ send SAP Software shortcut  to desktop/ Change Company for new account/ Form setting customization,MMC,10/2/2020,Remote,,2
-939,T0939,Ma Thein Thein Khaing,theintheinkhine@wisarra.com,WSR,Customer Service/Order Processor,SAP,To set up required accounts for new license,MMC,21-Sep-20,21-Sep-20,Validate FortiClient Credentials/ Change to new Remote Account/ send SAP Software shortcut  to desktop/ Change Company for new account/ Form setting customization,MMC,10/2/2020,Remote,,2
-941,T0941,Ma Khin Yadanar Oo,khinyadanaroo@wisarra.com,WSR,Customer Service/Order Processor,SAP,SAP exit frequently due to weak connection,MMC,21-Sep-20,21-Sep-20,Check Speedtest and request to change another Internet Service Provider,MMC,10/2/2020,Remote,,2
-942,T0942,Ma Nan Mon Mon Myat,nanmonmonmyat@wisarra.com,WSR,Customer Service/Order Processor,SAP,SAP exit frequently due to weak connection,MMC,21-Sep-20,21-Sep-20,Can't even check Speedtest and so request to change another Internet Service Provider,MMC,10/2/2020,Remote,,2
-950,T0950,Shun Lae,shunlae@wisarra.com,WSR,Finance/Account,User Support,Outlook Attched file erro,WNWH,22-Sep-20,22-Sep-20,Outlook Attached file fixed,WNWH,22-Sep-20,Remote,,3
-952,T0952,Hnin Yu Yu Aung,hninyuyuaung@wisarra.com,WSR,Finance/Account,SAP,Request new logistics user,MMC,22-Sep-20,22-Sep-20,Create new user WICTHREE with existing logistics license. Authorization and Form Setting are copy From WICONE.,MMC,10/2/2020,,,3
-961,T0961,Aung Thu,aungthu@wisarra.com,WSR,Marketing,User Support,Teams cannot login Issue,NDH,23-Sep-20,23-Sep-20,Teams Re-Install and Setup,NDH,27-Sep-20,Remote,,4
-962,T0962,Min Thaw Zin,minthawzin@wisarra.com,WSR,Marketing,User Support,Teams Install/ Zoom Install/ Email setup/ Virus Scan ,NDH,23-Sep-20,23-Sep-20,Teams Install/ Zoom Install/ Email setup/ Virus Scan ,NDH,23-Sep-20,Remote,,4
-963,T0963,Hnin Yu Yu Aung,hninyuyuaung@wisarra.com,WSR,Finance/Account,SAP,Request to remove WCAONE as authorizer from Actival Approval Template,MMC,22-Sep-20,22-Sep-20,Create new approval templates by removing WCAONE from authorizer,MMC,10/2/2020,Admin Portal,,3
-964,T0964,Saw Ye Htoo,sawyehtoo@wisarra.com,WSR,Finance/Account,SAP,Inventory Audit Report data is not correct as WCAONE,MMC,23-Sep-20,23-Sep-20,Choose Date as Posting Date instead of System Date,MMC,10/2/2020,Remote,,4
-965,T0965,Saw Ye Htoo,sawyehtoo@wisarra.com,WSR,Finance/Account,SAP,Can't access WSR_StockAgingReport,MMC,23-Sep-20,23-Sep-20,Grant access as Full Authorization,MMC,10/2/2020,Admin Portal,,4
-970,T0970,Ei Nandar Oo,einandaroo@wisarra.com,WSR,Finance/Account,User support,Window activation fail,WNWH,24-Sep-20,24-Sep-20,Window activate,WNWH,24-Sep-20,Remote,,5
-978,T0978,Wai Phyo Aung,waiphyoaung@wisarra.com,WSR,Marketing,User Support,Product License Activate Fail,NDH,25-Sep-20,25-Sep-20,Office Crack,NDH,25-Sep-20,Remote,,6
-987,T0987,Moh Moh Aung,mohmohaung@wisarra.email,WSR,Finance/Account,User Support,Unicode Issue,NDH,28-Sep-20,28-Sep-20,Unicode Keyboard Change,NDH,28-Sep-20,Remote,,2
-994,T0994,Hnin Yu Yu Aung,hninyuyuaung@wisarra.com,WSR,Finance/Account,User Support,Outlook error,WNWH,27-Sep-20,27-Sep-20,Outlook setup,WNWH,27-Sep-20,Remote,,1
-1004,T1004,Aye Nandar ,ayenandar@wisarra.com,WSR,Finance/Account,User Support,Office and window Activate Failed,WNWH,29-Sep-20,29-Sep-20,Office and Window Activate Crack,WNWH,29-Sep-20,Remote,,3
+710,T0710,Tun Nanda,tunnanda@awba-group.com,Awba,Marketing,User Support,Outlook Not Respon,AKM,01-Sep-20,01-Sep-20,Outlook profile Re-Setup,AKM,01-Sep-20,Remote,,3
+718,T0718,Thin Thiri,thinthiri@awba-group.com,Awba,Customer Service/Order Processor,SAP,SAP Hang Problem cause of try to quick access on slow internet speed,MMC,01-Sep-20,01-Sep-20,End Task the SAP,MMC,24-Sep-20,Remote,,3
+726,T0726,Myint Kyaw,myintkyaw@awba-group.com,Awba,Marketing,User Support,Email Password Change,WNWH,02-Sep-20,02-Sep-20,Email Password Change,WNWH,02-Sep-20,Remote,,4
+732,T0732,Nay Myo Thein,naymyothein@awba-group.email,Awba,Marketing,User Support,office Activate Fail,AKM,03-Sep-20,03-Sep-20,Office Crack,AKM,03-Sep-20,Remote,,5
+734,T0734,Zin Zin Swe Latt,zinzinswelatt@awba-group.com,Awba,Finance/Account,User Support,blocking suspicious domain and email address,TMMH,03-Sep-20,03-Sep-20,Block Domain and address from portal,TMMH,03-Sep-20,Admin Portal,,5
+742,T0742,Khant KoKo,khantkoko@awba-group.com,Awba,Marketing,User Support,Antivirus & Teams Issue,WNWH,04-Sep-20,04-Sep-20,Antivirus & Teams Issue Fixed,WNWH,4-Sep-20,Remote,,6
+750,T0750,Si Si Win,sisiwin@awba-group.com,Awba,Finance/Account,User Support,Scanner Setup,WNWH,07-Sep-20,07-Sep-20,Scanner Setup,WNWH,07-Sep-20,Remote,,2
+754,T0754,Htet Wai Yan Aung,htetwaiyanaung@awba-group.email,Awba,Marketing,User Support,Email Setup,WNWH,07-Sep-20,07-Sep-20,Email Setup,WNWH,7-Sep-20,Remote,,2
+755,T0755,Thida Moe,thidamoe.agrigate@awba-group.com,Awba,Finance/Account,User Support,O365 Using Portal,WNWH,07-Sep-20,07-Sep-20,O365 Using Portal,WNWH,7-Sep-20,Phone Call,,2
+769,T0769,Hnin Wai Lwin,hninwailwin@awba-group.com,Awba,Finance/Account,User Support,Outlook Profile Missing,WNWH,08-Sep-20,08-Sep-20,Outlook Setup,WNWH,8-Sep-20,Remote,,3
+778,T0778,Ye Myint Win,yemyintwin@awba-group.email,Awba,Marketing,User Support,Teams Guest User Setup,WNWH,10-Sep-20,10-Sep-20,TeamsGuest User  Setup,WNWH,10-Sep-20,Remote,,5
+783,T0783,Aung Naing Lin,aungnainglin@awba-group.email,Awba,Marketing,User Support,Email Create,WNWH,10-Sep-20,10-Sep-20,Email Create,WNWH,10-Sep-20,Admin Portal,,5
+784,T0784,Nay Win,naywin@awba-group.email,Awba,Marketing,User Support,New PC Setup,WNWH,10-Sep-20,10-Sep-20,New PC Setup,WNWH,10-Sep-20,Direct Support,,5
+785,T0785,Aung Ko Ko Min,aungkokomin@awba-group.email,Awba,Marketing,User Support,New PC Setup,WNWH,10-Sep-20,10-Sep-20,New PC Setup,WNWH,10-Sep-20,Direct Support,,5
+789,T0789,Hlaing Myo Htun,hlaingmyohtun@awba-group.email,Awba,Marketing,User Support,Excel Cannot Open and Cannot Write Error,NDH,10-Sep-20,10-Sep-20,Office Repair and Office License Crack,NDH,10-Sep-20,Remote,,5
+790,T0790,Myo Thin,myothin@awba-group.email,Awba,Marketing,User Support,Office Install and Mail Setup in New PC,NDH,10-Sep-20,10-Sep-20,Office Install and Mail Setup in New PC,NDH,10-Sep-20,Remote,,5
+799,T0799,Su Myat Thwe,sumyatthwe@awba-group.com,Awba,Customer Service/Order Processor,SAP,Cannot copy invoice data in Remote desktop,NDH,11-Sep-20,11-Sep-20,Sign Out from Remote and Re-Sign In,NDH,11-Sep-20,Remote,,6
+800,T0800,Kay Zin Thant,kayzinthant@awba-group.com,Awba,Customer Service/Order Processor,User Support,Outlook Cannot Open,NDH,11-Sep-20,11-Sep-20,Outlook Profile Re-Setup,NDH,11-Sep-20,Remote,,6
+801,T0801,Tin Myo Min,tinmyomin.mai@awba-group.com,Awba,Marketing,User Support,Outlook Cannot Open,NDH,11-Sep-20,11-Sep-20,Outlook Profile Re-Setup,NDH,11-Sep-20,Remote,,6
+806,T0806,Than Soe,thansoe@awba-group.com,Awba,Marketing,User Support,Teams Error,WNWH,11-Sep-20,11-Sep-20,Teams Re-Login,WNWH,11-Sep-20,Remote,,6
+809,T0809,Nay Win,naywin@awba-group.email,Awba,Marketing,User Support,Data Trasfer Old PC To New PC,WNWH,11-Sep-20,11-Sep-20,Data Trasfer Old PC To New PC,WNWH,11-Sep-20,Direct Support,,6
+810,T0810,Aung Ko Ko Min,aungkokomin@awba-group.email,Awba,Marketing,User Support,Data Trasfer Old PC To New PC,WNWH,11-Sep-20,11-Sep-20,Data Trasfer Old PC To New PC,WNWH,11-Sep-20,Direct Support,,6
+811,T0811,Thiha Aung,thihaaung@awba-group.email,Awba,Marketing,User Support,PC Change & Warranty,WNWH,11-Sep-20,11-Sep-20,PC Change & Warranyt,WNWH,11-Sep-20,Direct Support,,6
+813,T0813,May Paing Thet,maypaingthet@awba-group.com,Awba,Market Communication,User Support,Quotation Request,WNWH,11-Sep-20,11-Sep-20,Quotation Request Follow Finished,WNWH,11-Sep-20,Email,,6
+820,T0820,Than Moe Lwin,thanmoelwin@awba-group.email,Awba,Marketing,User Support,email password & user manual supporting,AKM,12-Sep-20,12-Sep-20,email password & user manual supporting,AKM,12-Sep-20,Remote,,7
+821,T0821,Su Su Maw,susumaw@awba-group.com,Awba,Finance/Account,User Support,outlook profile setup and office activate,AKM,12-Sep-20,12-Sep-20,outlook profile setup and office activate,AKM,12-Sep-20,Remote,,7
+824,T0824,Hlaing Myo Tun,hlaingmyotun@awba-group.com,Awba,Marketing,User Support,Pdf to Word Converter Install,NDH,12-Sep-20,12-Sep-20,Pdf to Word Converter Install and Setup,NDH,12-Sep-20,Remote,,7
+829,T0829,Aung Myin Kyaw,aungmyinkyaw@awba-group.email,Awba,Marketing,User Support,email password & user manual supporting,NDH,14-Sep-20,14-Sep-20,email password & user manual supporting,NDH,14-Sep-20,Communication Apps,,2
+830,T0830,Si Si Win,sisiwin@awba-group.email,Awba,Finance/Account,User Support,Office Activate Failed,WNWH,14-Sep-20,14-Sep-20,Office Activated Crack,WNWH,14-Sep-20,Remote,,2
+831,T0831,Ye Myint,yemyint@awba-group.com,Awba,Marketing,User Support,AM Computer 3-PC  Transfer,WNWH,14-Sep-20,14-Sep-20,AM Computer 3-PC  Transfer,WNWH,14-Sep-20,Direct Support,,2
+832,T0832,Thidar Moe,thidamoe@awba-group.com,Awba ,Finance/Account,User Support,Window Can't Boot,WNWH,14-Sep-20,14-Sep-20,Window Reset,WNWH,14-Sep-20,Remote,,2
+834,T0834,Tun Min Aung,tunminaung@awba-group.com,Awba,Marketing,IT Support,new email create,AKM,01-Sep-20,01-Sep-20,new email create,AKM,01-Sep-20,Admin Portal,,3
+848,T0848,Myo Myint Htun,myomyinthtun@awba-group.email,Awba,Marketing,User Support,Laptop Monitor Issue,NDH,14-Sep-20,14-Sep-20,Clean Browse History and Maintenance,NDH,14-Sep-20,Remote,,2
+851,T0851,Aung Naing Aye,aungnaingaye@awba-group.email,Awba,Marketing,User Support,Key Conflict Issue and Mail Data Adding,NDH,14-Sep-20,14-Sep-20,Key Conflict Issue and Mail Data Adding,NDH,14-Sep-20,Remote,,2
+854,T0854,Hein Min Zaw,heinminzaw@awba-group.email,Awba,Marketing,User Support,Teams Guest Account & Outlook Error Fixed,WNWH,14-Sep-20,14-Sep-20,Tems Guest Account & Outlook Error Fixed,WNWH,14-Sep-20,Remote,,2
+865,T0865,Than Soe,thansoe@awba-group.com,Awba,Marketing,Denko,Quota update request,KHN,01-Sep-20,03-Sep-20,Update Quota,KHN,24-Sep-20,Admin Portal,,3
+869,T0869,Zaw Win Hlaing,zawwinhlaing@awba-group.com,Awba,Marketing,Denko,New Card Request,KHN,04-Sep-20,04-Sep-20,Email new card request to Denko,KHN,24-Sep-20,Email,,6
+870,T0870,Zaw Win Hlaing,zawwinhlaing@awba-group.com,Awba,Marketing,Denko,Quota update request,KHN,04-Sep-20,04-Sep-20,Update Quota,KHN,24-Sep-20,Admin Portal,,6
+875,T0875,Hus Myat Oo,hsumyatoo@awba-group.email,Awba ,Market Communication,User Support,Computer Purchase,WNWH,15-Sep-20,15-Sep-20,Computer Purchase,WNWH,15-Sep-20,Direct Support,,3
+876,T0876,Sithu Aung,sithuaung@awba-group.email,Awba,Marketing,User Support,PC Change Email Setup,WNWH,15-Sep-20,15-Sep-20,PC Change Email Setup,WNWH,15-Sep-20,Remote,,3
+877,T0877,Su Su Maw,susumaw@awba-group.com,Awba,Finance/Account,User Support,Window Update,WNWH,15-Sep-20,15-Sep-20,Window Update Disable,WNWH,15-Sep-20,Remote,,3
+878,T0878,Si Si Win,sisiwin@awba-group.com,Awba,Finance/Account,User Support,One Drive Error,WNWH,15-Sep-20,15-Sep-20,One Drive Sync ,WNWH,15-Sep-20,Remote,,3
+881,T0881,May Thandar Soe,maythandarsoe@awba-group.com,Awba,Customer Service/Order Processor,User Support,Outlook password require,AKM,15-Sep-20,15-Sep-20,password support and restart the computer,AKM,15-Sep-20,Phone Call,,3
+882,T0882,Thiri Phyo,thiriphyo@awba-group.com,Awba ,Customer Service/Order Processor,User Support,Excel attached file cannot open,NDH,16-Sep-20,16-Sep-20,Clean Temp files in Regstiry file,NDH,16-Sep-20,Remote,,4
+886,T0886,Hsu Myat Oo,hsumyatoo@awba-group.email,Awba,Market Communication,User Support,New PC Setup,WNWH,16-Sep-20,16-Sep-20,New PC Setup,WNWH,16-Sep-20,Direct Support,,4
+887,T0887,Ye Myint Win,yemyintwin@awba-group.email,Awba,Marketing,User Support,Window Auto Update Disable,WNWH,16-Sep-20,16-Sep-20,Window Auto Update Disable,WNWH,16-Sep-20,Remote,,4
+888,T0888,Thiha Myo,thihamyo@awba-group.email,Awba,Marketing,User Support,Team Guest Account Setup,WNWH,16-Sep-20,16-Sep-20,Teams Guest Account Setup,WNWH,16-Sep-20,Remote,,4
+892,T0892,May Thandar Hlaing,maythandarhlaing@awba-group.com,Awba ,Customer Service/Order Processor,User Support,Excel attached file cannot open,NDH,16-Sep-20,16-Sep-20,Clean Temp files in Regstiry file,NDH,16-Sep-20,Remote,,4
+903,T0903,Phyo Wai Hein,phyowaihein@awba-group.com,Awba,Marketing,Kaizala,Rollout (A2B),KHN,09-Sep-20,09-Sep-20,Rollout Training,KHN,09-Sep-20,Communication Apps,,4
+905,T0905,Myo Zaw Nyein,myozawnyein@awba-group.com,Awba,Marketing,Kaizala,Rollout (MNA),KHN,08-Sep-20,08-Sep-20,Rollout Training,AKM,08-Sep-20,Communication Apps,,3
+907,T0907,Aung Myat Htut,aungmyathtut@awba-group.com,Awba,Marketing,Kaizala,Rollout (SNA),KHN,17-Sep-20,17-Sep-20,Rollout Training,KHN,17-Sep-20,Communication Apps,,5
+908,T0908,Ye Myint,yemyint@awba-group.com,Awba,Marketing,Kaizala,Rollout (YGB),KHN,17-Sep-20,17-Sep-20,Rollout Training,AKM,17-Sep-20,Communication Apps,,5
+909,T0909,Yin Yin Hmwe,yinyinhmwe@awba-group.com,Awba ,Customer Service/Order Processor,User Support,Excel attached file cannot open,NDH,17-Sep-20,17-Sep-20,Clean Temp files in Regstiry file,NDH,17-Sep-20,Remote,,5
+913,T0913,Htoo Htoo Win,htoowin@awba-group.com,Awba,Marketing,User Support,Pyihtaunghsu Font Training,wnwh,18-Sep-20,18-Sep-20,Pyihtaunghsu Font Training,WNWH,18-Sep-20,Remote,,6
+918,T0918,Thiha Myo,thihamyo@awba-group.email,Awba,Marketing,User Support,Teams Issue,wnwh,18-Sep-20,18-Sep-20,Teams Guest User Login,WNWH,18-Sep-20,Remote,,6
+919,T0919,Htin Lin Aung,htinlinaung@awba-group.com,Awba,Marketing,User Support,Myanmar Font error,wnwh,18-Sep-20,18-Sep-20,Myanmar Font Fix,WNWH,18-Sep-20,Remote,,6
+921,T0921,Hnin Hnin Htet,hninhninhtet@awba-group.com,Awba,Customer Service/Order Processor,User Support,Window Activate Fail and Outlook Cannot Open,NDH,18-Sep-20,18-Sep-20,Window Crack and Mail Profile Re-setup,NDH,18-Sep-20,Remote,,6
+922,T0922,Wai Yan Tun,waiyantun@awba-group.email,Awba,Marketing,User Support,Unicode Error,NDH,18-Sep-20,18-Sep-20,Unicode Uninstall and Install,NDH,18-Sep-20,Remote,,6
+924,T0924,Nwe Nwe Shein,nwenweshein@awba-group.com,Awba ,Customer Service/Order Processor,User Support,Excel attached file cannot open,NDH,18-Sep-20,18-Sep-20,Clean Temp files in Regstiry file,NDH,18-Sep-20,Remote,,6
+928,T0928,Yan Naing Tun ,yannaingtun@awba-group.email,Awba,Marketing,User Support,Teams Guest Issue,WNWH,21-Sep-20,21-Sep-20,Teams Guest Issue,WNWH,21-Sep-20,Remote,,2
+929,T0929,Thant Zin Tun,thantzintun@awba-group.email,Awba,Marketing,User Support,Myanmar Fonts,WNWH,21-Sep-20,21-Sep-20,Myanmar Fonts,WNWH,21-Sep-20,Remote,,2
+930,T0930,Tin Moe Khaing ,tinmoekhaing@awba-group.email,Awba,Marketing,User Support,Teams Guest Issue,WNWH,21-Sep-20,21-Sep-20,Teams Guest Issue,WNWH,21-Sep-20,Remote,,2
+932,T0932,Nwe Nwe Shein,nwenweshein@awba-group.com,Awba ,Customer Service/Order Processor,SAP,Data file cannot copy form remote to desktop,NDH,21-Sep-20,21-Sep-20,Sign Out from Remote and Re-Sign In to Remote,NDH,21-Sep-20,Remote,,2
+933,T0933,Thidar Moe,thidarmoe@awba-group.com,Awba,Finance/Account,User Support,Adobe Acrobat XI Pro Setup,NDH,21-Sep-20,21-Sep-20,Adobe Acrobat XI Pro Download and Setup,NDH,21-Sep-20,Remote,,2
+937,T0937,Thidar Moe,thidarmoe@awba-group.com,Awba,Finance/Account,User Support,.email data file add in Outlook,NDH,21-Sep-20,21-Sep-20,.email data file add in account setting,NDH,21-Sep-20,Remote,,2
+946,T0946,Aung Kyaw Tun,aungkyawtun@awba-group.email,Awba,Marketing,User Support,Excel cannot open,NDH,22-Sep-20,22-Sep-20,Office Quick Repair,NDH,22-Sep-20,Remote,,3
+951,T0951,Soe Tun Thar,soetunthar@awba-group.email,Awba,Marketing,User Support,Outlook Account Change,WNWH,22-Sep-20,22-Sep-20,Outlook Account Change,WNWH,22-Sep-20,Remote,,3
+954,T0954,Hsu Myat Oo,hsumyatoo@awba-group.com,Awba,Market Communication,User Support,Outlook Setup,WNWH,23-Sep-20,23-Sep-20,Outlook Setup,WNWH,23-Sep-20,Remote,,4
+955,T0955,Aye Aye Myat,ayeayemyat@awba-group.com,Awba,Market Communication,User Support,One Driver Sync Error,WNWH,23-Sep-20,23-Sep-20,One Drive Sync Fixed,WNWH,23-Sep-20,Remote,,4
+960,T0960,Bhone Kyaw Lin,bhonekyawlin@awba-group.com,Awba,Marketing,User Support,email cannot send,AKM,23-Sep-20,23-Sep-20,checkiing admin portal,AKM,23-Sep-20,Admin Portal,,4
+968,T0968,Aye Aye Myat,ayeayemyat@awba-group.com,Awba,Market Communication,User Support,Email Issue,WNWH,23-Sep-20,23-Sep-20,Email Issue Fixed,WNWH,24-Sep-20,Whatsapp,,4
+971,T0971,Hnin Wai Lwin,hninwailwin@awba-group.com,Awba,Finance/Account,User support,Outlook Issue,WNWH,24-Sep-20,24-Sep-20,Outlook Setup,WNWH,24-Sep-20,Remote,,5
+975,T0975,Kyi Aung,kyiaung@awba-group.email,Awba,Marketing,User Support,Excel file  file extension is not valid,NDH,24-Sep-20,24-Sep-20,Excel file  file extension change,NDH,24-Sep-20,Remote,,5
+984,T0984, Thant Syn,thantsyn@awba-group.com,Awba,Marketing,User Support,Window Activate Failed,WNWH,28-Sep-20,28-Sep-20,Window Activated,WNWH,28-Sep-20,Remote,,2
+986,T0986,Tin Moe Khaing,tinmoekhaing@awba-group.email,Awba,Finance/Account,User Support,Office Activate Failed,WNWH,28-Sep-20,28-Sep-20,Office Crack,WNWH,28-Sep-20,Remote,,2
+996,T0996,Nway Nway Aung,nwaynwayaung@awba-group.email,Awba,Marketing,User Support,Office & Window Activation Failed,WNWH,28-Sep-20,28-Sep-20,Office & Window Crack,WNWH,28-Sep-20,Remote,,2
+998,T0998,Thin Zar Myint,thinzarmyint@awba-group.com,Awba,Finance/Account,User Support,Unicode Issue,NDH,28-Sep-20,28-Sep-20,Add Unicode Font and Keyboard,NDH,28-Sep-20,Remote,,2
+1001,T1001,Hnin Wai Mon,hninwaimon@awba-group.com,Awba,Finance/Account,User Support,Window Activate Failed,WNWH,28-Sep-20,28-Sep-20,Window Crack,WNWH,28-Sep-20,Remote,,2
+1008,T1008,Aung Lin San,aunglinsan@awba-group.email,Awba,Finance/Account,User Support,Viber Setup,WNWH,30-Sep-20,30-Sep-20,Viber Setup,WNWH,30-Sep-20,Remote,,4
+1009,T1009,Wint Htet Kyaw,winthtetkyaw@awba-group.com,Awba,Finance/Account,User Support,Email Issue ,WNWH,30-Sep-20,30-Sep-20,Email Issue Fixed,WNWH,30-Sep-20,Remote,,4
