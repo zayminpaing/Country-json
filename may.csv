@@ -1,128 +1,128 @@
-No.,Ticket ID,User name,Email/Ph:,Company,Department,Project Name,Issue Description ,Assign Person,Open Date ,Resolved Date ,Resolution,Solved by,Close Date,Support Type,Remark
-30,T0030,May Thet Kyaw,maythetkyaw@mktk-agri.email,MKTK,Finance/Account,User Support,Window Unlicense/ Office Unlicense,NDH,02-May-20,02-May-20,Window Crack/ Office Crack,NDH,02-May-20,Remote,
-31,T0031,Pyae Phone Naing,pyaephonenaing@wisarra.email,WSR,Marketing,User Support,Unicode Error/ Window Unlicense/ Office Unlicense,NDH,02-May-20,02-May-20,Unicode Error Fixed/ Window Crack/ Office Crack,NDH,02-May-20,Remote,
-32,T0032,Wint,wint@myanmarsanpya.com,MSCN,Finance/Account,User Support,Network Issue,WNWH,04-May-20,04-May-20,Network Issue Fixed,WNWH,04-May-20,Remote,
-33,T0033,Su Myat Thwe,sumyatthwe@awba-group.com,Awba,Customer Service/Order Processor,User Support,Printer Issue,WNWH,04-May-20,04-May-20,Printer Re-Connect,WNWH,04-May-20,Remote,
-34,T0034,Grace,grace@awba-group.com,ASIC,Logistic,Loyalty,To Create Channel app account,WTRA,04-May-20,04-May-20,Create AM account on Loyalty CMS,WTRA,04-May-20,Admin Portal,
-35,T0035,Tin Moe Khaing,tinmoekhaing@awba-group.email,Awba,Finance/Account,User Support,Window Unlicense,WNWH,04-May-20,04-May-20,Window Crack,WNWH,04-May-20,Remote,
-36,T0036,July,july@awba-group.email,Awba,Admin,User Support,Email/ Excel Not Response Error,NDH,04-May-20,04-May-20,Performance Task Check and Clean Temp File / Stop unnecessary background running,NDH,04-May-20,Remote,
-37,T0037,Pyae Phyo Han,toehlaing@pt-pyaezone.com,PTPZ,Production,Loyalty,Product name wrong scanning Error,WTRA,04-May-20,04-May-20,Service ticket open on MIT service desk and solve the correct product name with Awba Tempo 250CC,WTRA,04-May-20,Ticket open,
-38,T0038,Soe Maung,soemaung@wisarra.com,WSR,Production,User Support,Unicode Error,NDH,04-May-20,04-May-20,Keymen Uninstall and Unicode font re-Install,NDH,04-May-20,Remote,
-39,T0039,Khin Thet Htar Nwe,khinthethtarnwe.mai@awba-group.com,MAI,Finance/Account,User Support,outlook issue/ Window Unlicense,NDH,04-May-20,04-May-20,Outlook profile re-setup/ Window Crack,NDH,04-May-20,Remote,
-40,T0040,Tin Myo Min,tinmyomin@awba-group.email,MAI,Admin,User Support,Excel file error (Cause of ByteFence App),NDH,04-May-20,04-May-20,Uninstall unnecessary application/ Clean Temp file,NDH,04-May-20,Remote,
-41,T0041,Yee Mon Han,yeemonhan@pt-pyaezone.com,PTPZ,Finance/Account,User Support,Scanner Software Install,WNWH,05-May-20,05-May-20,Scanner Software Install,WNWH,05-May-20,Remote,
-42,T0042,Pyae Phone Naing,pyaephonenaing@wisarra.email,WSR,Marketing,User Support,Email Send Error,NDH,05-May-20,05-May-20,Email Profile re-setup,NDH,05-May-20,Remote,
-43,T0043,Chan Myae Lwin,chanmyaelwin@pt-pyaezone.email,PTPZ,Finance/Account,User Support,Printer Issue,NDH,05-May-20,05-May-20,LBP2900 Printer Install,NDH,05-May-20,Remote,
-44,T0044,Nyein Chan Aung,nyeinchanaung@awba-group.email,Awba,Marketing,User Support,Email Setup,WNWH,05-May-20,05-May-20,Email Setup,WNWH,05-May-20,Remote,
-45,T0045,Zaw Min Oo,zawminoo.trading@awba-group.com,Awba,Trading,User Support,Email Issue,NDH,05-May-20,05-May-20,Office 2016 Uninstall and re-Install Office,NDH,05-May-20,Remote,
-46,T0046,Thant Zin oo,thantzinoo@awba-group.email,Awba,Marketing,User Support,Zoom Account Setup,WNWH,07-May-20,07-May-20,Zoom Account Setup,WNWH,07-May-20,Remote,
-47,T0047,Nyein Ei Ei Khine,nyeineieikhine@awba-group.email,Awba,Marketing,User Support,Window and Office Crack,WNWH,07-May-20,07-May-20,Window and Office Crack,WNWH,07-May-20,Remote,
-48,T0048,Ko Hla Myo Min,hlamyomin@pt-pyaezone.com,PTPZ,Management,Loyalty,MKTK Delivery product tracking,WTRA,07-May-20,07-May-20,"Checking with Channel App
+No.,Ticket ID,User name,Email/Ph:,Company,Department,Project Name,Issue Description ,Assign Person,Open Date ,Resolved Date ,Resolution,Solved by,Close Date,Support Type,Remark,DOW
+30,T0030,May Thet Kyaw,maythetkyaw@mktk-agri.email,MKTK,Finance/Account,User Support,Window Unlicense/ Office Unlicense,NDH,2-May-20,2-May-20,Window Crack/ Office Crack,NDH,2-May-20,Remote,,7
+31,T0031,Pyae Phone Naing,pyaephonenaing@wisarra.email,WSR,Marketing,User Support,Unicode Error/ Window Unlicense/ Office Unlicense,NDH,2-May-20,2-May-20,Unicode Error Fixed/ Window Crack/ Office Crack,NDH,2-May-20,Remote,,7
+32,T0032,Wint,wint@myanmarsanpya.com,MSCN,Finance/Account,User Support,Network Issue,WNWH,4-May-20,4-May-20,Network Issue Fixed,WNWH,4-May-20,Remote,,2
+33,T0033,Su Myat Thwe,sumyatthwe@awba-group.com,Awba,Customer Service/Order Processor,User Support,Printer Issue,WNWH,4-May-20,4-May-20,Printer Re-Connect,WNWH,4-May-20,Remote,,2
+34,T0034,Grace,grace@awba-group.com,ASIC,Logistic,Loyalty,To Create Channel app account,WTRA,4-May-20,4-May-20,Create AM account on Loyalty CMS,WTRA,4-May-20,Admin Portal,,2
+35,T0035,Tin Moe Khaing,tinmoekhaing@awba-group.email,Awba,Finance/Account,User Support,Window Unlicense,WNWH,4-May-20,4-May-20,Window Crack,WNWH,4-May-20,Remote,,2
+36,T0036,July,july@awba-group.email,Awba,Admin,User Support,Email/ Excel Not Response Error,NDH,4-May-20,4-May-20,Performance Task Check and Clean Temp File / Stop unnecessary background running,NDH,4-May-20,Remote,,2
+37,T0037,Pyae Phyo Han,toehlaing@pt-pyaezone.com,PTPZ,Production,Loyalty,Product name wrong scanning Error,WTRA,4-May-20,4-May-20,Service ticket open on MIT service desk and solve the correct product name with Awba Tempo 250CC,WTRA,4-May-20,Ticket open,,2
+38,T0038,Soe Maung,soemaung@wisarra.com,WSR,Production,User Support,Unicode Error,NDH,4-May-20,4-May-20,Keymen Uninstall and Unicode font re-Install,NDH,4-May-20,Remote,,2
+39,T0039,Khin Thet Htar Nwe,khinthethtarnwe.mai@awba-group.com,MAI,Finance/Account,User Support,outlook issue/ Window Unlicense,NDH,4-May-20,4-May-20,Outlook profile re-setup/ Window Crack,NDH,4-May-20,Remote,,2
+40,T0040,Tin Myo Min,tinmyomin@awba-group.email,MAI,Admin,User Support,Excel file error (Cause of ByteFence App),NDH,4-May-20,4-May-20,Uninstall unnecessary application/ Clean Temp file,NDH,4-May-20,Remote,,2
+41,T0041,Yee Mon Han,yeemonhan@pt-pyaezone.com,PTPZ,Finance/Account,User Support,Scanner Software Install,WNWH,5-May-20,5-May-20,Scanner Software Install,WNWH,5-May-20,Remote,,3
+42,T0042,Pyae Phone Naing,pyaephonenaing@wisarra.email,WSR,Marketing,User Support,Email Send Error,NDH,5-May-20,5-May-20,Email Profile re-setup,NDH,5-May-20,Remote,,3
+43,T0043,Chan Myae Lwin,chanmyaelwin@pt-pyaezone.email,PTPZ,Finance/Account,User Support,Printer Issue,NDH,5-May-20,5-May-20,LBP2900 Printer Install,NDH,5-May-20,Remote,,3
+44,T0044,Nyein Chan Aung,nyeinchanaung@awba-group.email,Awba,Marketing,User Support,Email Setup,WNWH,5-May-20,5-May-20,Email Setup,WNWH,5-May-20,Remote,,3
+45,T0045,Zaw Min Oo,zawminoo.trading@awba-group.com,Awba,Trading,User Support,Email Issue,NDH,5-May-20,5-May-20,Office 2016 Uninstall and re-Install Office,NDH,5-May-20,Remote,,3
+46,T0046,Thant Zin oo,thantzinoo@awba-group.email,Awba,Marketing,User Support,Zoom Account Setup,WNWH,7-May-20,7-May-20,Zoom Account Setup,WNWH,7-May-20,Remote,,5
+47,T0047,Nyein Ei Ei Khine,nyeineieikhine@awba-group.email,Awba,Marketing,User Support,Window and Office Crack,WNWH,7-May-20,7-May-20,Window and Office Crack,WNWH,7-May-20,Remote,,5
+48,T0048,Ko Hla Myo Min,hlamyomin@pt-pyaezone.com,PTPZ,Management,Loyalty,MKTK Delivery product tracking,WTRA,7-May-20,7-May-20,"Checking with Channel App
 Product Code : HERBD-PNGA-KFG-1LITR
 Product Name : PANGA 1LITER
 MFD: 30-04-2019/ EXP: 29-04-2022
 Dealer Code: BW-049/Daw Khin Than Oo
-Invoice No: 56766",WTRA,07-May-20,Admin Portal,
-49,T0049,Shoon Lae Lae Ko,pakoakkusalecenter@awba-group.email,Awba,Marketing,User Support,Unicode Installation,NDH,07-May-20,07-May-20,Unicode Install,NDH,07-May-20,Remote,
-50,T0050,Aung Myint Win,aungmyintwin@awba-group.email,Awba,Marketing,User Support,Zoom Account Setup,WNWH,07-May-20,07-May-20,Zoom Account Setup,WNWH,07-May-20,Remote,
-51,T0051,Soe Kyaw Lin,kyawnandaaung@pt-pyaezone.com,PTPZ,Delivery,Loyalty, WSR New Customer BP code create,NDH,07-May-20,07-May-20, Create BP code M4-010 on Loyalty CMS,NDH,07-May-20,Admin Portal,
-52,T0052,Thein Ou Khin,theinoukhin@pt-pyaezone.email,PTPZ,Finance/Account,User Support,printer error,AKM,07-May-20,07-May-20,Print spooler restart,AKM,07-May-20,Remote,
-53,T0053,Ma Nang Khan Kuu,nangkhanku@awba-group.com,Awba,Customer Service/Order Processor,SAP,To find access documents of CRMTWELVE and CRMTHIRTEEN on AWBA and MAI,MMC,07-May-20,07-May-20,Customized queries based on user requirements,MMC,07-May-20,Email,
-54,T0054,Ma Khin Thuzar Myint,khinthuzarmyint@mktk-agri.com,MKTK,Customer Service/Order Processor,SAP,How to cancel sales order(65620) which is partially closed with credit memo,MMC,07-May-20,07-May-20,Update sales order (65620) by setting same quantities as delivery ,MMC,07-May-20,Phone Call,
-55,T0055,Ei Ei Chaw,eieichaw@awba-group.com,Awba,Customer Service/Order Processor,User Support,Date and Time not correct Error,NDH,08-May-20,08-May-20,Date and Time Adjustment,NDH,08-May-20,Remote,
-56,T0056,Nwe Ni Win,nweni.win@villagelink.co,Village Link,Admin,User Support,Not enough space and onedrive login,AKM,08-May-20,08-May-20,clean temp and solve big data size,AKM,08-May-20,Remote,
-57,T0057,Yin Yin Aye,yinyinaye.mai@awba-group.email,MAI,Finance/Account,User Support,Email Receive Error,NDH,08-May-20,08-May-20,Email Setting Repair,NDH,08-May-20,Remote,
-58,T0058,Yin Min Pike,yinminpike@awba-group.com,Awba Group,Finance/Account,User Support,Product Activate Fail,NDH,08-May-20,08-May-20,Office Crack,NDH,08-May-20,Remote,
-59,T0059,Soe Kyaw Lin,kyawnandaaung@pt-pyaezone.com,PTPZ,Delivery,Loyalty, WSR New Customer BP code create,NDH,08-May-20,08-May-20, Create BP code G2-072 on Loyalty CMS,NDH,08-May-20,Admin Portal,
-60,T0060,Hnin Hnin Htet,hninhninhtet@awba-group.com,Awba,Customer Service/Order Processor,User Support,Email Send Error,NDH,09-May-20,09-May-20,Outlook profile re-setup,NDH,09-May-20,Remote,
-61,T0061,Thapyay Aung,thapyayaung@awba-group.com,Awba,Customer Service/Order Processor,User Support,Outlook inbox unread issue,NDH,09-May-20,09-May-20,Outlook inbox unread filtered,NDH,09-May-20,Remote,
-62,T0062,Khaing khaing San,khaingkhaingsan@evo-agro.com,Evo,Finance/Account,User Support,excel attached file error in Team,NDH,09-May-20,09-May-20,Change excel file character name,NDH,09-May-20,Remote,
-63,T0063,Tin Zar Thaw,tinzarthaw@awba-group.email,MAI,Finance/Account,SAP,Hana (VPN) not connected,MMC,09-May-20,09-May-20,Username may be contained space. so reconnect VPN by texting username ( not copying),MMC,09-May-20,Remote,
-64,T0064,Thet Phyu Phway,thetphyuphwe@wisarra.com,WSR,Finance/Account,SAP,Hana (VPN) not connected,MMC,11-May-20,11-May-20,Shut down Forticlient and Reconnect,MMC,11-May-20,Remote,
-65,T0065,Wai Yan Tun,waiyantun@awba-group.email,Awba,Marketing,User Support,Email Issue/ Product activate fail,NDH,11-May-20,11-May-20,Email Profile re-setup/ Office Crack,NDH,11-May-20,Remote,
-66,T0066,Moe Myint Zu Thin,moemyintzuthin@awba-group.email,Awba Group,Internal Audit,User Support,Touch pad erro,AKM,11-May-20,11-May-20,Touch pad enable from windows setting,AKM,11-May-20,Direct Support,
-67,T0067,Hnin Sabai,hninsabai@pt-pyaezone.email,PTPZ,Warehouse,User Support,Windows Activate,AKM,11-May-20,11-May-20,Windows crack,AKM,11-May-20,Remote,
-68,T0068,May Yi Mon,mayyimon@wisarra.com,PTPZ,Delivery,Loyalty, WSR New Customer BP code create,NDH,11-May-20,11-May-20, Create BP code M1-119/ M1-120 on Loyalty CMS,NDH,11-May-20,Admin Portal,
-69,T0069,Soe Maung,soemaung@wisarra.com,WSR,Product Registration,User Support,Team Video Camera Error,NDH,11-May-20,11-May-20,Troubleshooting Camera Setting,NDH,11-May-20,Remote,
-70,T0070,Tin Myo Min,tinmyomin@awba-group.email,MAI,Admin,User Support,Email Send/Receive Error,NDH,12-May-20,12-May-20,Email Re-setup,NDH,12-May-20,Remote,
-71,T0071,Hlaing Min Aung,kyawnandaaung@pt-pyaezone.com,PTPZ,Delivery,Loyalty,WSR New Customer BP code create,NDH,12-May-20,12-May-20,Create BP code SE-074 on Loyalty CMS,NDH,12-May-20,Admin Portal,
-72,T0072,Yin Min Pike,yinminpike@awba-group.com,Awba Group,Finance/Account,SAP,Font size is so small in HDGLTWO,MMC,12-May-20,12-May-20,Increase font size for HDGLTWO from USERS module,MMC,12-May-20,Admin Portal,
-73,T0073,Wunna,wunna.mai@awba-group.email,MAI,Production,User Support,Unicode Error/ Window Unlicense/ Office Unlicense,NDH,12-May-20,12-May-20,Unicode Install/ Window and Office Crack,NDH,12-May-20,Remote,
-74,T0074,Emerald,emerald@awba-group.com,Pahtama Seed,Admin,User Support,Outlook attached Issue ,WNWH,12-May-20,12-May-20,Outlook attached Issue fixed,WNWH,12-May-20,Remote,
-75,T0075,Nyein Nyein Maw,nyeinnyeinmaw@wisarra.com,WSR,Finance/Account,User Support,Printer Setup,NDH,13-May-20,13-May-20,Cannon MF3010 Installation,NDH,13-May-20,Remote,
-76,T0076,Thazin Phyo,thazinphyo@pt-pyaezone.email,PTPZ,Finance/Account,User Support,email send error,NDH,13-May-20,13-May-20,Email Profile Check and Fixed,NDH,13-May-20,Remote,
-77,T0077,Hlaing Min Aung,kyawnandaaung@pt-pyaezone.com,PTPZ,Delivery,Loyalty,WSR New Customer BP code create,NDH,13-May-20,13-May-20,Create BP code BE-125 on Loyalty CMS,NDH,13-May-20,Admin Portal,
-78,T0078,Myo Nyunt,myonyunt@wisarra.com,WSR,Marketing,User Support,Team Attached file Error,NDH,13-May-20,13-May-20,Team Video Attached file Check and fixed,NDH,13-May-20,Remote,
-79,T0079,Arkar Myo,kyawnandaaung@pt-pyaezone.com,PTPZ,Delivery,Loyalty,WSR New Customer BP code create,NDH,14-May-20,14-May-20,Create BP code BE-118 on Loyalty CMS,NDH,14-May-20,Admin Portal,
-80,T0080,Win Kyaw Thu,winkyawthu@awba-group.com,Awba,Marketing,User Support,Zoom Account Setup,WNWH,15-May-20,15-May-20,Zoom Account Setup,WNWH,15-May-20,Remote,
-81,T0081,Hlaing Oo,hlaingoo@awba-group.com,Awba,Marketing,User Support,Wifi Issue,WNWH,15-May-20,15-May-20,Usb Tethering Hostpot(Temporary),WNWH,15-May-20,Phone Call,
-82,T0082,Min Hein Htet,minheinhtet@wisarra.com,WSR,Marketing,User Support,Email Issue,WNWH,15-May-20,15-May-20,Email Setting Repair,WNWH,15-May-20,Remote,
-83,T0083,Phyo Phyo Wai,phyophyowai@pt-payezone.email,PTPZ,Admin,User Support,Outlook Updating Error,NDH,15-May-20,15-May-20,Outlook check and fixed,NDH,15-May-20,Remote,
-84,T0084,Khin Thet Htar Nwe,khinthethtarnwe.mai@awba-group.com,MAI,Finance/Account,User Support,Outlook Send/Receive Error,NDH,15-May-20,15-May-20,Outlook profile re-setup,NDH,15-May-20,Remote,
-85,T0085,Thida Moe,thidarmoe@awba-group.com,Awba,Finance/Account,SAP,Remote is not set up on new PC,MMC,15-May-20,15-May-20,Set up remote account,MMC,15-May-20,Remote,
-86,T0086,Htet Wai Yan Aung,htetwaiyanaung@awba-group.email,Awba,Marketing,User Support,Email Setup,WNWH,15-May-20,15-May-20,Email Setup,WNWH,15-May-20,Remote,
-87,T0087,Eaint Thae Lin,eaintthaelin@awba-group.com,Awba Group,HR,User Support,Email,WNWH,18-May-20,18-May-20,Email Setup,WNWH,18-May-20,Remote,
+Invoice No: 56766",WTRA,7-May-20,Admin Portal,,5
+49,T0049,Shoon Lae Lae Ko,pakoakkusalecenter@awba-group.email,Awba,Marketing,User Support,Unicode Installation,NDH,7-May-20,7-May-20,Unicode Install,NDH,7-May-20,Remote,,5
+50,T0050,Aung Myint Win,aungmyintwin@awba-group.email,Awba,Marketing,User Support,Zoom Account Setup,WNWH,7-May-20,7-May-20,Zoom Account Setup,WNWH,7-May-20,Remote,,5
+51,T0051,Soe Kyaw Lin,kyawnandaaung@pt-pyaezone.com,PTPZ,Delivery,Loyalty, WSR New Customer BP code create,NDH,7-May-20,7-May-20, Create BP code M4-010 on Loyalty CMS,NDH,7-May-20,Admin Portal,,5
+52,T0052,Thein Ou Khin,theinoukhin@pt-pyaezone.email,PTPZ,Finance/Account,User Support,printer error,AKM,7-May-20,7-May-20,Print spooler restart,AKM,7-May-20,Remote,,5
+53,T0053,Ma Nang Khan Kuu,nangkhanku@awba-group.com,Awba,Customer Service/Order Processor,SAP,To find access documents of CRMTWELVE and CRMTHIRTEEN on AWBA and MAI,MMC,7-May-20,7-May-20,Customized queries based on user requirements,MMC,7-May-20,Email,,5
+54,T0054,Ma Khin Thuzar Myint,khinthuzarmyint@mktk-agri.com,MKTK,Customer Service/Order Processor,SAP,How to cancel sales order(65620) which is partially closed with credit memo,MMC,7-May-20,7-May-20,Update sales order (65620) by setting same quantities as delivery ,MMC,7-May-20,Phone Call,,5
+55,T0055,Ei Ei Chaw,eieichaw@awba-group.com,Awba,Customer Service/Order Processor,User Support,Date and Time not correct Error,NDH,8-May-20,8-May-20,Date and Time Adjustment,NDH,8-May-20,Remote,,6
+56,T0056,Nwe Ni Win,nweni.win@villagelink.co,Village Link,Admin,User Support,Not enough space and onedrive login,AKM,8-May-20,8-May-20,clean temp and solve big data size,AKM,8-May-20,Remote,,6
+57,T0057,Yin Yin Aye,yinyinaye.mai@awba-group.email,MAI,Finance/Account,User Support,Email Receive Error,NDH,8-May-20,8-May-20,Email Setting Repair,NDH,8-May-20,Remote,,6
+58,T0058,Yin Min Pike,yinminpike@awba-group.com,Awba Group,Finance/Account,User Support,Product Activate Fail,NDH,8-May-20,8-May-20,Office Crack,NDH,8-May-20,Remote,,6
+59,T0059,Soe Kyaw Lin,kyawnandaaung@pt-pyaezone.com,PTPZ,Delivery,Loyalty, WSR New Customer BP code create,NDH,8-May-20,8-May-20, Create BP code G2-072 on Loyalty CMS,NDH,8-May-20,Admin Portal,,6
+60,T0060,Hnin Hnin Htet,hninhninhtet@awba-group.com,Awba,Customer Service/Order Processor,User Support,Email Send Error,NDH,9-May-20,9-May-20,Outlook profile re-setup,NDH,9-May-20,Remote,,7
+61,T0061,Thapyay Aung,thapyayaung@awba-group.com,Awba,Customer Service/Order Processor,User Support,Outlook inbox unread issue,NDH,9-May-20,9-May-20,Outlook inbox unread filtered,NDH,9-May-20,Remote,,7
+62,T0062,Khaing khaing San,khaingkhaingsan@evo-agro.com,Evo,Finance/Account,User Support,excel attached file error in Team,NDH,9-May-20,9-May-20,Change excel file character name,NDH,9-May-20,Remote,,7
+63,T0063,Tin Zar Thaw,tinzarthaw@awba-group.email,MAI,Finance/Account,SAP,Hana (VPN) not connected,MMC,9-May-20,9-May-20,Username may be contained space. so reconnect VPN by texting username ( not copying),MMC,9-May-20,Remote,,7
+64,T0064,Thet Phyu Phway,thetphyuphwe@wisarra.com,WSR,Finance/Account,SAP,Hana (VPN) not connected,MMC,11-May-20,11-May-20,Shut down Forticlient and Reconnect,MMC,11-May-20,Remote,,2
+65,T0065,Wai Yan Tun,waiyantun@awba-group.email,Awba,Marketing,User Support,Email Issue/ Product activate fail,NDH,11-May-20,11-May-20,Email Profile re-setup/ Office Crack,NDH,11-May-20,Remote,,2
+66,T0066,Moe Myint Zu Thin,moemyintzuthin@awba-group.email,Awba Group,Internal Audit,User Support,Touch pad erro,AKM,11-May-20,11-May-20,Touch pad enable from windows setting,AKM,11-May-20,Direct Support,,2
+67,T0067,Hnin Sabai,hninsabai@pt-pyaezone.email,PTPZ,Warehouse,User Support,Windows Activate,AKM,11-May-20,11-May-20,Windows crack,AKM,11-May-20,Remote,,2
+68,T0068,May Yi Mon,mayyimon@wisarra.com,PTPZ,Delivery,Loyalty, WSR New Customer BP code create,NDH,11-May-20,11-May-20, Create BP code M1-119/ M1-120 on Loyalty CMS,NDH,11-May-20,Admin Portal,,2
+69,T0069,Soe Maung,soemaung@wisarra.com,WSR,Product Registration,User Support,Team Video Camera Error,NDH,11-May-20,11-May-20,Troubleshooting Camera Setting,NDH,11-May-20,Remote,,2
+70,T0070,Tin Myo Min,tinmyomin@awba-group.email,MAI,Admin,User Support,Email Send/Receive Error,NDH,12-May-20,12-May-20,Email Re-setup,NDH,12-May-20,Remote,,3
+71,T0071,Hlaing Min Aung,kyawnandaaung@pt-pyaezone.com,PTPZ,Delivery,Loyalty,WSR New Customer BP code create,NDH,12-May-20,12-May-20,Create BP code SE-074 on Loyalty CMS,NDH,12-May-20,Admin Portal,,3
+72,T0072,Yin Min Pike,yinminpike@awba-group.com,Awba Group,Finance/Account,SAP,Font size is so small in HDGLTWO,MMC,12-May-20,12-May-20,Increase font size for HDGLTWO from USERS module,MMC,12-May-20,Admin Portal,,3
+73,T0073,Wunna,wunna.mai@awba-group.email,MAI,Production,User Support,Unicode Error/ Window Unlicense/ Office Unlicense,NDH,12-May-20,12-May-20,Unicode Install/ Window and Office Crack,NDH,12-May-20,Remote,,3
+74,T0074,Emerald,emerald@awba-group.com,Pahtama Seed,Admin,User Support,Outlook attached Issue ,WNWH,12-May-20,12-May-20,Outlook attached Issue fixed,WNWH,12-May-20,Remote,,3
+75,T0075,Nyein Nyein Maw,nyeinnyeinmaw@wisarra.com,WSR,Finance/Account,User Support,Printer Setup,NDH,13-May-20,13-May-20,Cannon MF3010 Installation,NDH,13-May-20,Remote,,4
+76,T0076,Thazin Phyo,thazinphyo@pt-pyaezone.email,PTPZ,Finance/Account,User Support,email send error,NDH,13-May-20,13-May-20,Email Profile Check and Fixed,NDH,13-May-20,Remote,,4
+77,T0077,Hlaing Min Aung,kyawnandaaung@pt-pyaezone.com,PTPZ,Delivery,Loyalty,WSR New Customer BP code create,NDH,13-May-20,13-May-20,Create BP code BE-125 on Loyalty CMS,NDH,13-May-20,Admin Portal,,4
+78,T0078,Myo Nyunt,myonyunt@wisarra.com,WSR,Marketing,User Support,Team Attached file Error,NDH,13-May-20,13-May-20,Team Video Attached file Check and fixed,NDH,13-May-20,Remote,,4
+79,T0079,Arkar Myo,kyawnandaaung@pt-pyaezone.com,PTPZ,Delivery,Loyalty,WSR New Customer BP code create,NDH,14-May-20,14-May-20,Create BP code BE-118 on Loyalty CMS,NDH,14-May-20,Admin Portal,,5
+80,T0080,Win Kyaw Thu,winkyawthu@awba-group.com,Awba,Marketing,User Support,Zoom Account Setup,WNWH,15-May-20,15-May-20,Zoom Account Setup,WNWH,15-May-20,Remote,,6
+81,T0081,Hlaing Oo,hlaingoo@awba-group.com,Awba,Marketing,User Support,Wifi Issue,WNWH,15-May-20,15-May-20,Usb Tethering Hostpot(Temporary),WNWH,15-May-20,Phone Call,,6
+82,T0082,Min Hein Htet,minheinhtet@wisarra.com,WSR,Marketing,User Support,Email Issue,WNWH,15-May-20,15-May-20,Email Setting Repair,WNWH,15-May-20,Remote,,6
+83,T0083,Phyo Phyo Wai,phyophyowai@pt-payezone.email,PTPZ,Admin,User Support,Outlook Updating Error,NDH,15-May-20,15-May-20,Outlook check and fixed,NDH,15-May-20,Remote,,6
+84,T0084,Khin Thet Htar Nwe,khinthethtarnwe.mai@awba-group.com,MAI,Finance/Account,User Support,Outlook Send/Receive Error,NDH,15-May-20,15-May-20,Outlook profile re-setup,NDH,15-May-20,Remote,,6
+85,T0085,Thida Moe,thidarmoe@awba-group.com,Awba,Finance/Account,SAP,Remote is not set up on new PC,MMC,15-May-20,15-May-20,Set up remote account,MMC,15-May-20,Remote,,6
+86,T0086,Htet Wai Yan Aung,htetwaiyanaung@awba-group.email,Awba,Marketing,User Support,Email Setup,WNWH,15-May-20,15-May-20,Email Setup,WNWH,15-May-20,Remote,,6
+87,T0087,Eaint Thae Lin,eaintthaelin@awba-group.com,Awba Group,HR,User Support,Email,WNWH,18-May-20,18-May-20,Email Setup,WNWH,18-May-20,Remote,,2
 88,T0088,Mi Mi Khine Zaw,mimikhaingzaw@awba-group.com,Awba,Finance/Account,SAP,Can't export customer receivable aging because exchange rates and indexes can't open due to current license,MMC,18-May-20,18-May-20,"update all types of exchange rates for today. 
 Currency choosing in customer receivable aging is Thai Batt
 Change Currency to Business Partner.
-replace all types of exchange rates as original",MMC,18-May-20,Remote,
-89,T0089,Myo Ko Ko Soe,myokokosoe@pt-pyaezone.com,PTPZ,Admin,User Support,Windows cannot boot,AKM,18-May-20,19-May-20,Data copy from error laptop,AKM,18-May-20,Phone Call,
-90,T0090,Hsu Myat Thu,hsumyatthu@ayeyerwaddyseeds.com,Pahtama Seed,HR,User Support,Unicode installation,NDH,19-May-20,19-May-20,Unicode Installation,NDH,19-May-20,Remote,
-91,T0091,Nwe Nwe Oo,nwenweoo@wisarra.com,WSR,Finance/Account,User Support,Team Issue,NDH,19-May-20,19-May-20,Team Login again,NDH,19-May-20,Remote,
-92,T0092,Wah Wah Thin,wahwahthin@awba-group.com,Agrigate,Finance/Account,User Support,.Com Setup and Teams Training,WNWH,20-May-20,20-May-20,.Com Mail Setup,WNWH,20-May-20,Remote,
-93,T0093,Thet Thet Oo,thetthetoo@wisarra.com,WSR,Marketing,User Support,Outlook Data file issue,NDH,20-May-20,20-May-20,Outlook data file Add,NDH,20-May-20,Remote,
-94,T0094,Su Yee,suyee@mktk-agri.com,MKTK,Finance/Account,User Support,Printer Dirver Setup,WNWH,20-May-20,20-May-20,Printer Driver Setup,WNWH,20-May-20,Remote,
-95,T0095,Ei Ei Chaw,eieichaw@awba-group.com,Awba,Customer Service/Order Processor,User Support,Email Attached file cannot open issue,NDH,21-May-20,21-May-20,Modify Outook in Registy Editor,NDH,21-May-20,Remote,
-96,T0096,Thein Thein Khaing,theintheinkhine@wisarra.com,WSR,Customer Service/Order Processor,SAP,VPN ( Forticlient ) can't connect,MMC,21-May-20,21-May-20,Repair the Forticlient,MMC,21-May-20,Remote,
-97,T0097,May Paing Thet,maypaingthet@awba-group.com,Awba,Market Communication,User Support,Team Video Disable Issue,NDH,21-May-20,21-May-20,Camera Check and Team Re-Login,NDH,21-May-20,Remote,
-98,T0098,Soe Wai Yan Lin,soewaiyanlin@mktk-agri.com,MKTK,Marketing,User Support,Excel Rar File Issue,NDH,21-May-20,21-May-20,Checking and renew rarfile and Extracting,NDH,21-May-20,Remote,
-99,T0099,Arkar Myo,kyawnandaaung@pt-pyaezone.com,PTPZ,Delivery,Loyalty, WSR New Customer BP code create,NDH,21-May-20,21-May-20, Create BP code SN-ATY-015 on Loyalty CMS,NDH,21-May-20,Admin Portal,
-100,T0100,Nan Kham Nu,nankhamnu@wisarra.com,WSR,Finance/Account,User Support,.Com Setup and Teams Training,WNWH,21-May-20,21-May-20,.Com Setup and Teams Training,WNWH,21-May-20,Remote,
-101,T0101,Tharaphie Aung,tharaphieaung@wisarra.com,WSR,Finance/Account,User Support,.Com Setup and Teams Training,WNWH,21-May-20,21-May-20,.Com Setup and Teams Training,WNWH,21-May-20,Remote,
-102,T0102,Su Hlaing Hnin,suhlainghnin@wisarra.com,WSR,Finance/Account,User Support,.Com Setup and Teams Training,WNWH,21-May-20,21-May-20,.Com Setup and Teams Training,WNWH,21-May-20,Remote,
-103,T0103,Shun Lae Win,shunlaewin@wisarra.com,WSR,Finance/Account,User Support,.Com Setup and Teams Training,WNWH,21-May-20,21-May-20,.Com Setup and Teams Training,WNWH,21-May-20,Remote,
-104,T0104,Hnin Yu Swe,hinyuswe@wisarra.com,WSR,Finance/Account,User Support,.Com Setup and Teams Training,WNWH,21-May-20,21-May-20,.Com Setup and Teams Training,WNWH,21-May-20,Remote,
-105,T0105,Aye Nandar,ayenandar@wisarra.com,WSR,Finance/Account,User Support,.Com Setup and Teams Training,WNWH,21-May-20,21-May-20,.Com Setup and Teams Training,WNWH,21-May-20,Remote,
-106,T0106,Thae Hnin Su Aye,thaehninsuaye@wisarra.com,WSR,Finance/Account,User Support,.Com Setup and Teams Training,WNWH,21-May-20,21-May-20,.Com Setup and Teams Training,WNWH,21-May-20,Remote,
-107,T0107,Yin Min Paike,yinminpike@awba-group.com,Awba Group,Finance/Account,User Support,EY Audit Multi-Factor Setup,WNWH,21-May-20,21-May-20,EY Audit Multi-Factor Setup,WNWH,21-May-20,Remote,
-108,T0108,Ngu War Khaing,nguwarkhaing@awba-group.com,Pahtama Seed,Finance/Account,User Support,EY Audit Multi-Factor Setup,WNWH,21-May-20,21-May-20,EY Audit Multi-Factor Setup,WNWH,21-May-20,Remote,
-109,T0109,Nang Thidar Oo,nangthidaoo@awba-group.com,MSCN,Finance/Account,User Support,EY Audit Multi-Factor Setup,WNWH,21-May-20,21-May-20,EY Audit Multi-Factor Setup,WNWH,21-May-20,Remote,
-110,T0110,Khine Ei Ei Phyoe,khineeieiphyoe@mktk-agri.com,MKTK,Finance/Account,User Support,EY Audit Multi-Factor Setup,WNWH,22-May-20,22-May-20,EY Audit Multi-Factor Setup,WNWH,22-May-20,Remote,
-111,T0111,Ye Kyaw Thu,yekyawthu@awba-group.com,MAI,Finance/Account,User Support,EY Audit Multi-Factor Setup,WNWH,22-May-20,22-May-20,EY Audit Multi-Factor Setup,WNWH,22-May-20,Remote,
-112,T0112,Tin Win,tinwin@pt-payezone.com,PTPZ,Production,User Support,Outlook Profile Issue,NDH,22-May-20,22-May-20,Outlook Profile Re-Setup,NDH,22-May-20,Remote,
-113,T0113,Zin Zin Swe Latt,zinzinswelatt@awba-group.com,Awba,Finance/Account,User Support,EY Audit Multi-Factor Setup,WNWH,22-May-20,22-May-20,EY Audit Multi-Factor Setup,WNWH,22-May-20,Remote,
-114,T0114,Lae Lae Aung,laelaeaung@pt-pyaezone.com,PTPZ,Finance/Account,User Support,EY Audit Multi-Factor Setup,WNWH,22-May-20,22-May-20,EY Audit Multi-Factor Setup,WNWH,22-May-20,Remote,
-115,T0115,Arkar Myo,kyawnandaaung@pt-pyaezone.com,WSR,Delivery,Loyalty, WSR New Customer BP code create,NDH,23-May-20,23-May-20, Create BP code B3-035 on Loyalty CMS,NDH,23-May-20,Admin Portal,
-116,T0116,Aung Kyaw Zin Myo,aung.kyaw@villagelink.co,Village Link,Marketing,User Support,Office unlicense,AKM,24-May-20,24-May-20,Office crack,AKM,24-May-20,Remote,
-117,T0117,Tharaphie Aung,tharaphieaung@wisarra.com,WSR,Finance/Account,User Support,Office unlicense,WNWH,25-May-20,25-May-20,Office Crack,WNWH,25-May-20,Remote,
-118,T0118,Aung Phyo Wai,aungphyowai@mktk-agri.email,MKTK,Marketing,User Support,Office unlicense and Email,WNWH,25-May-20,25-May-20,Office Crack and Email Issue Fixed,WNWH,25-May-20,Remote,
-119,T0119,Hsu Myat Thu,hsumyatthu@ayeyarwaddyseeds.com,ASIC,HR,User Support,Outlook Setup and Zoom Audio,WNWH,25-May-20,25-May-20,Outlook Setup and Zoom Audio,WNWH,25-May-20,Remote,
-120,T0120,Khine Khine San,khaingkhaingsan@evo-gro.com,Evo,Finance/Account,SAP,VPN can't connect,MMC,25-May-20,25-May-20,Shut down forticlient and reconnect,MMC,25-May-20,Remote,
-121,T0121,Tin Win,tinwin@pt-payezone.com,PTPZ,Production,User Support,Outlook Profile Issue,NDH,25-May-20,25-May-20,Outlook Profile Re-Setup,NDH,25-May-20,Remote,
-122,T0122,Hsu Myat Thwe,sumyatthwe@awba-group.com,Awba,Customer Service/Order Processor,SAP,VPN can't connect,MMC,25-May-20,25-May-20,Username contain sapce when copying so enter username and reconnect forticlient,MMC,25-May-20,Remote,
-123,T0123,Hsu Myat Thwe,sumyatthwe@awba-group.com,Awba,Customer Service/Order Processor,SAP,Can't paste the copied file to remote desktop,MMC,25-May-20,25-May-20,Sign out remote desktop and reconnect,MMC,25-May-20,Remote,
-124,T0124,Su Myat Thu,sumyatthu@pt-pyaezone.com,PTPZ,Production,User Support,Outlook Receive Error,NDH,25-May-20,25-May-20,Outlook Profile Re-Setup,NDH,25-May-20,Remote,
-125,T0125,Hnin Yu Yu Aung,hinyuyuaung@wisarra.com,WSR,Finance/Account,User Support,EY Audit Multi-Factor Setup,WNWH,25-May-20,25-May-20,EY Audit Multi-Factor Setup,WNWH,25-May-20,Remote,
-126,T0126,Ye Mon Han,yemonhan@pt-payezone.email,PTPZ,Finance/Account,User Support,Office unlicense,NDH,26-May-20,26-May-20,Office Crack,NDH,26-May-20,Remote,
-127,T0127,Myo Lin Aung,myolinaung@wisarra.com,WSR,Marketing,User Support,Window Unlicense,WNWH,26-May-20,26-May-20,Window Activate,WNWH,26-May-20,Remote,
-128,T0128,Ye Naing,yenaing@awba-group.email,Awba,Marketing,User Support,Unicode,WNWH,26-May-20,26-May-20,Unicode,WNWH,26-May-20,Remote,
-129,T0129,Su Mon Aye ,sumonaye@mktk-agri.email,MKTK,Finance/Account,User Support,Window Unlicense,WNWH,26-May-20,26-May-20,Window Activate,WNWH,26-May-20,Remote,
-130,T0130,May Thet Khaing,maythetkhaing@evo-gro.com,Evo,Admin,User Support,MS Teams and Forticlient Setup,WNWH,26-May-20,26-May-20,MS Teams and Forticlient Setup,WNWH,26-May-20,Remote,
-131,T0131,May Thandar Aung,maythandaraung@pt-pyaezone.email,PTPZ,Finance/Account,User Support,Window and Office Unlicense,WNWH,26-May-20,26-May-20,Window and Office Activate,WNWH,26-May-20,Remote,
-132,T0132,May Paing Thet,maypaingthet@awba-group.com,Awba,Market Communication,User Support,Excel file can’t open issue and Outlook disable issue,NDH,26-May-20,26-May-20,Office Re-Installation and Outlook profile re-setup,NDH,26-May-20,Remote,
-133,T0133,Pyae Pyae Phyo Maung,pyaepyaephyomaung@pt-pyaezone.email,PTPZ,Finance/Account,User Support,Scanner Setup,WNWH,26-May-20,26-May-20,Printer Setup,WNWH,26-May-20,Remote,
-134,T0134,Thein Thein Khine,theintheinkhaing.mai@awba-group.com,MAI,Finance/Account,User Support,Window License Expire,NDH,27-May-20,27-May-20,Window Activate,NDH,27-May-20,Remote,
-135,T0135,Hsu Myat Oo,hsumyatoo@awba-group.email,Awba,Market Communication,User Support,Window Activate Fail,NDH,27-May-20,27-May-20,Window Crack,NDH,27-May-20,Remote,
-136,T0136,Soe Thu Kyaw,soethukyaw@awba-group.com,Awba Group,Product Registration,User Support,Outlook Send/Receive Error,NDH,27-May-20,27-May-20,Outlook Profile Re-Setup,NDH,27-May-20,Remote,
-137,T0137,Yamin Thandar,yaminthandar@pt-pyaezone.com,PTPZ,Finance/Account,User Support,EY Audit Multi-Factor Setup,WNWH,27-May-20,27-May-20,EY Audit Multi-Factor Setup,WNWH,27-May-20,Direct Support,
-138,T0138,Thidar Moe,thidarmoe@awba-group.com,Awba,Finance/Account,User Support,Printer and Scanner Setup,WNWH,27-May-20,27-May-20,Printer and Scanner Setup,WNWH,27-May-20,Direct Support,
-139,T0139,Su Mon Naing,sumonnaing@mktk-agri.email,MKTK,Finance/Account,User Support,Window  License Expire,WNWH,27-May-20,27-May-20,Window Activate,WNWH,27-May-20,Remote,
-140,T0140,Khin Thuzar Myint,khinthuzarmyint@mktk-agri.email,MKTK,Finance/Account,User Support,Window  License Expire,WNWH,27-May-20,27-May-20,Window Activate,WNWH,27-May-20,Direct Support,
-141,T0141,Khaing Khaing San,khaingkhaingsan@evo-gro.com,Evo,Finance/Account,User Support,EY Audit Multi-Factor Setup,WNWH,27-May-20,27-May-20,EY Audit Multi-Factor Setup,WNWH,27-May-20,Remote,
-142,T0142,Thein Thein Khaing,theintheinkhaing@wisarra.com,WSR,Customer Service/Order Processor,SAP,Hide Remote Screen Title Bar,MMC,28-May-20,28-May-20,Tick the use all of my monitor for desktop,MMC,28-May-20,Remote,
-143,T0143,Khin Yadanar Oo,khinyadanaroo@wisarra.com,WSR,Finance/Account,SAP,Remote Hang Problem,MMC,29-May-20,29-May-20,Clean up recycle bin/ recent/ temp and prefetch on both PC and Remote Desktop,MMC,29-May-20,Remote,
-144,T0144,Myo Aung,myoaung@awba-group.com,MAI,Production,User Support,Outlook Send/Receive Error,NDH,28-May-20,29-May-20,Office Repair and Outlook Profile Resetup,NDH,29-May-20,Remote,
-145,T0145,Thaw Zin,thawzin@wisarra.com,WSR,Marketing,User Support,Outlook Receive Error and Rule Issue,NDH,29-May-20,29-May-20,Outook Profile Re-Setp and Rule Trainin and Checking,NDH,29-May-20,Remote,
-146,T0146,Zin Maung Maung,zinmaungmaung@wisarra.com,WSR,Marketing,User Support,Excel file screen share issue in Team,NDH,29-May-20,29-May-20,Excel Screen share training and checking,NDH,29-May-20,Remote,
-147,T0147,Myo Nyunt,myonyunt@wisarra.com,WSR,Marketing,User Support,Excel file screen share issue in Team,NDH,29-May-20,29-May-20,Excel Screen share training and checking,NDH,29-May-20,Remote,
-148,T0148,Thet Zin Aung,thetzinaung@wisarra.email,WSR,Marketing,User Support,Outlook Send/Receive Error,NDH,29-May-20,29-May-20,Outlook Setting Change,NDH,29-May-20,Remote,
+replace all types of exchange rates as original",MMC,18-May-20,Remote,,2
+89,T0089,Myo Ko Ko Soe,myokokosoe@pt-pyaezone.com,PTPZ,Admin,User Support,Windows cannot boot,AKM,18-May-20,19-May-20,Data copy from error laptop,AKM,18-May-20,Phone Call,,2
+90,T0090,Hsu Myat Thu,hsumyatthu@ayeyerwaddyseeds.com,Pahtama Seed,HR,User Support,Unicode installation,NDH,19-May-20,19-May-20,Unicode Installation,NDH,19-May-20,Remote,,3
+91,T0091,Nwe Nwe Oo,nwenweoo@wisarra.com,WSR,Finance/Account,User Support,Team Issue,NDH,19-May-20,19-May-20,Team Login again,NDH,19-May-20,Remote,,3
+92,T0092,Wah Wah Thin,wahwahthin@awba-group.com,Agrigate,Finance/Account,User Support,.Com Setup and Teams Training,WNWH,20-May-20,20-May-20,.Com Mail Setup,WNWH,20-May-20,Remote,,4
+93,T0093,Thet Thet Oo,thetthetoo@wisarra.com,WSR,Marketing,User Support,Outlook Data file issue,NDH,20-May-20,20-May-20,Outlook data file Add,NDH,20-May-20,Remote,,4
+94,T0094,Su Yee,suyee@mktk-agri.com,MKTK,Finance/Account,User Support,Printer Dirver Setup,WNWH,20-May-20,20-May-20,Printer Driver Setup,WNWH,20-May-20,Remote,,4
+95,T0095,Ei Ei Chaw,eieichaw@awba-group.com,Awba,Customer Service/Order Processor,User Support,Email Attached file cannot open issue,NDH,21-May-20,21-May-20,Modify Outook in Registy Editor,NDH,21-May-20,Remote,,5
+96,T0096,Thein Thein Khaing,theintheinkhine@wisarra.com,WSR,Customer Service/Order Processor,SAP,VPN ( Forticlient ) can't connect,MMC,21-May-20,21-May-20,Repair the Forticlient,MMC,21-May-20,Remote,,5
+97,T0097,May Paing Thet,maypaingthet@awba-group.com,Awba,Market Communication,User Support,Team Video Disable Issue,NDH,21-May-20,21-May-20,Camera Check and Team Re-Login,NDH,21-May-20,Remote,,5
+98,T0098,Soe Wai Yan Lin,soewaiyanlin@mktk-agri.com,MKTK,Marketing,User Support,Excel Rar File Issue,NDH,21-May-20,21-May-20,Checking and renew rarfile and Extracting,NDH,21-May-20,Remote,,5
+99,T0099,Arkar Myo,kyawnandaaung@pt-pyaezone.com,PTPZ,Delivery,Loyalty, WSR New Customer BP code create,NDH,21-May-20,21-May-20, Create BP code SN-ATY-015 on Loyalty CMS,NDH,21-May-20,Admin Portal,,5
+100,T0100,Nan Kham Nu,nankhamnu@wisarra.com,WSR,Finance/Account,User Support,.Com Setup and Teams Training,WNWH,21-May-20,21-May-20,.Com Setup and Teams Training,WNWH,21-May-20,Remote,,5
+101,T0101,Tharaphie Aung,tharaphieaung@wisarra.com,WSR,Finance/Account,User Support,.Com Setup and Teams Training,WNWH,21-May-20,21-May-20,.Com Setup and Teams Training,WNWH,21-May-20,Remote,,5
+102,T0102,Su Hlaing Hnin,suhlainghnin@wisarra.com,WSR,Finance/Account,User Support,.Com Setup and Teams Training,WNWH,21-May-20,21-May-20,.Com Setup and Teams Training,WNWH,21-May-20,Remote,,5
+103,T0103,Shun Lae Win,shunlaewin@wisarra.com,WSR,Finance/Account,User Support,.Com Setup and Teams Training,WNWH,21-May-20,21-May-20,.Com Setup and Teams Training,WNWH,21-May-20,Remote,,5
+104,T0104,Hnin Yu Swe,hinyuswe@wisarra.com,WSR,Finance/Account,User Support,.Com Setup and Teams Training,WNWH,21-May-20,21-May-20,.Com Setup and Teams Training,WNWH,21-May-20,Remote,,5
+105,T0105,Aye Nandar,ayenandar@wisarra.com,WSR,Finance/Account,User Support,.Com Setup and Teams Training,WNWH,21-May-20,21-May-20,.Com Setup and Teams Training,WNWH,21-May-20,Remote,,5
+106,T0106,Thae Hnin Su Aye,thaehninsuaye@wisarra.com,WSR,Finance/Account,User Support,.Com Setup and Teams Training,WNWH,21-May-20,21-May-20,.Com Setup and Teams Training,WNWH,21-May-20,Remote,,5
+107,T0107,Yin Min Paike,yinminpike@awba-group.com,Awba Group,Finance/Account,User Support,EY Audit Multi-Factor Setup,WNWH,21-May-20,21-May-20,EY Audit Multi-Factor Setup,WNWH,21-May-20,Remote,,5
+108,T0108,Ngu War Khaing,nguwarkhaing@awba-group.com,Pahtama Seed,Finance/Account,User Support,EY Audit Multi-Factor Setup,WNWH,21-May-20,21-May-20,EY Audit Multi-Factor Setup,WNWH,21-May-20,Remote,,5
+109,T0109,Nang Thidar Oo,nangthidaoo@awba-group.com,MSCN,Finance/Account,User Support,EY Audit Multi-Factor Setup,WNWH,21-May-20,21-May-20,EY Audit Multi-Factor Setup,WNWH,21-May-20,Remote,,5
+110,T0110,Khine Ei Ei Phyoe,khineeieiphyoe@mktk-agri.com,MKTK,Finance/Account,User Support,EY Audit Multi-Factor Setup,WNWH,22-May-20,22-May-20,EY Audit Multi-Factor Setup,WNWH,22-May-20,Remote,,6
+111,T0111,Ye Kyaw Thu,yekyawthu@awba-group.com,MAI,Finance/Account,User Support,EY Audit Multi-Factor Setup,WNWH,22-May-20,22-May-20,EY Audit Multi-Factor Setup,WNWH,22-May-20,Remote,,6
+112,T0112,Tin Win,tinwin@pt-payezone.com,PTPZ,Production,User Support,Outlook Profile Issue,NDH,22-May-20,22-May-20,Outlook Profile Re-Setup,NDH,22-May-20,Remote,,6
+113,T0113,Zin Zin Swe Latt,zinzinswelatt@awba-group.com,Awba,Finance/Account,User Support,EY Audit Multi-Factor Setup,WNWH,22-May-20,22-May-20,EY Audit Multi-Factor Setup,WNWH,22-May-20,Remote,,6
+114,T0114,Lae Lae Aung,laelaeaung@pt-pyaezone.com,PTPZ,Finance/Account,User Support,EY Audit Multi-Factor Setup,WNWH,22-May-20,22-May-20,EY Audit Multi-Factor Setup,WNWH,22-May-20,Remote,,6
+115,T0115,Arkar Myo,kyawnandaaung@pt-pyaezone.com,WSR,Delivery,Loyalty, WSR New Customer BP code create,NDH,23-May-20,23-May-20, Create BP code B3-035 on Loyalty CMS,NDH,23-May-20,Admin Portal,,7
+116,T0116,Aung Kyaw Zin Myo,aung.kyaw@villagelink.co,Village Link,Marketing,User Support,Office unlicense,AKM,24-May-20,24-May-20,Office crack,AKM,24-May-20,Remote,,1
+117,T0117,Tharaphie Aung,tharaphieaung@wisarra.com,WSR,Finance/Account,User Support,Office unlicense,WNWH,25-May-20,25-May-20,Office Crack,WNWH,25-May-20,Remote,,2
+118,T0118,Aung Phyo Wai,aungphyowai@mktk-agri.email,MKTK,Marketing,User Support,Office unlicense and Email,WNWH,25-May-20,25-May-20,Office Crack and Email Issue Fixed,WNWH,25-May-20,Remote,,2
+119,T0119,Hsu Myat Thu,hsumyatthu@ayeyarwaddyseeds.com,ASIC,HR,User Support,Outlook Setup and Zoom Audio,WNWH,25-May-20,25-May-20,Outlook Setup and Zoom Audio,WNWH,25-May-20,Remote,,2
+120,T0120,Khine Khine San,khaingkhaingsan@evo-gro.com,Evo,Finance/Account,SAP,VPN can't connect,MMC,25-May-20,25-May-20,Shut down forticlient and reconnect,MMC,25-May-20,Remote,,2
+121,T0121,Tin Win,tinwin@pt-payezone.com,PTPZ,Production,User Support,Outlook Profile Issue,NDH,25-May-20,25-May-20,Outlook Profile Re-Setup,NDH,25-May-20,Remote,,2
+122,T0122,Hsu Myat Thwe,sumyatthwe@awba-group.com,Awba,Customer Service/Order Processor,SAP,VPN can't connect,MMC,25-May-20,25-May-20,Username contain sapce when copying so enter username and reconnect forticlient,MMC,25-May-20,Remote,,2
+123,T0123,Hsu Myat Thwe,sumyatthwe@awba-group.com,Awba,Customer Service/Order Processor,SAP,Can't paste the copied file to remote desktop,MMC,25-May-20,25-May-20,Sign out remote desktop and reconnect,MMC,25-May-20,Remote,,2
+124,T0124,Su Myat Thu,sumyatthu@pt-pyaezone.com,PTPZ,Production,User Support,Outlook Receive Error,NDH,25-May-20,25-May-20,Outlook Profile Re-Setup,NDH,25-May-20,Remote,,2
+125,T0125,Hnin Yu Yu Aung,hinyuyuaung@wisarra.com,WSR,Finance/Account,User Support,EY Audit Multi-Factor Setup,WNWH,25-May-20,25-May-20,EY Audit Multi-Factor Setup,WNWH,25-May-20,Remote,,2
+126,T0126,Ye Mon Han,yemonhan@pt-payezone.email,PTPZ,Finance/Account,User Support,Office unlicense,NDH,26-May-20,26-May-20,Office Crack,NDH,26-May-20,Remote,,3
+127,T0127,Myo Lin Aung,myolinaung@wisarra.com,WSR,Marketing,User Support,Window Unlicense,WNWH,26-May-20,26-May-20,Window Activate,WNWH,26-May-20,Remote,,3
+128,T0128,Ye Naing,yenaing@awba-group.email,Awba,Marketing,User Support,Unicode,WNWH,26-May-20,26-May-20,Unicode,WNWH,26-May-20,Remote,,3
+129,T0129,Su Mon Aye ,sumonaye@mktk-agri.email,MKTK,Finance/Account,User Support,Window Unlicense,WNWH,26-May-20,26-May-20,Window Activate,WNWH,26-May-20,Remote,,3
+130,T0130,May Thet Khaing,maythetkhaing@evo-gro.com,Evo,Admin,User Support,MS Teams and Forticlient Setup,WNWH,26-May-20,26-May-20,MS Teams and Forticlient Setup,WNWH,26-May-20,Remote,,3
+131,T0131,May Thandar Aung,maythandaraung@pt-pyaezone.email,PTPZ,Finance/Account,User Support,Window and Office Unlicense,WNWH,26-May-20,26-May-20,Window and Office Activate,WNWH,26-May-20,Remote,,3
+132,T0132,May Paing Thet,maypaingthet@awba-group.com,Awba,Market Communication,User Support,Excel file can’t open issue and Outlook disable issue,NDH,26-May-20,26-May-20,Office Re-Installation and Outlook profile re-setup,NDH,26-May-20,Remote,,3
+133,T0133,Pyae Pyae Phyo Maung,pyaepyaephyomaung@pt-pyaezone.email,PTPZ,Finance/Account,User Support,Scanner Setup,WNWH,26-May-20,26-May-20,Printer Setup,WNWH,26-May-20,Remote,,3
+134,T0134,Thein Thein Khine,theintheinkhaing.mai@awba-group.com,MAI,Finance/Account,User Support,Window License Expire,NDH,27-May-20,27-May-20,Window Activate,NDH,27-May-20,Remote,,4
+135,T0135,Hsu Myat Oo,hsumyatoo@awba-group.email,Awba,Market Communication,User Support,Window Activate Fail,NDH,27-May-20,27-May-20,Window Crack,NDH,27-May-20,Remote,,4
+136,T0136,Soe Thu Kyaw,soethukyaw@awba-group.com,Awba Group,Product Registration,User Support,Outlook Send/Receive Error,NDH,27-May-20,27-May-20,Outlook Profile Re-Setup,NDH,27-May-20,Remote,,4
+137,T0137,Yamin Thandar,yaminthandar@pt-pyaezone.com,PTPZ,Finance/Account,User Support,EY Audit Multi-Factor Setup,WNWH,27-May-20,27-May-20,EY Audit Multi-Factor Setup,WNWH,27-May-20,Direct Support,,4
+138,T0138,Thidar Moe,thidarmoe@awba-group.com,Awba,Finance/Account,User Support,Printer and Scanner Setup,WNWH,27-May-20,27-May-20,Printer and Scanner Setup,WNWH,27-May-20,Direct Support,,4
+139,T0139,Su Mon Naing,sumonnaing@mktk-agri.email,MKTK,Finance/Account,User Support,Window  License Expire,WNWH,27-May-20,27-May-20,Window Activate,WNWH,27-May-20,Remote,,4
+140,T0140,Khin Thuzar Myint,khinthuzarmyint@mktk-agri.email,MKTK,Finance/Account,User Support,Window  License Expire,WNWH,27-May-20,27-May-20,Window Activate,WNWH,27-May-20,Direct Support,,4
+141,T0141,Khaing Khaing San,khaingkhaingsan@evo-gro.com,Evo,Finance/Account,User Support,EY Audit Multi-Factor Setup,WNWH,27-May-20,27-May-20,EY Audit Multi-Factor Setup,WNWH,27-May-20,Remote,,4
+142,T0142,Thein Thein Khaing,theintheinkhaing@wisarra.com,WSR,Customer Service/Order Processor,SAP,Hide Remote Screen Title Bar,MMC,28-May-20,28-May-20,Tick the use all of my monitor for desktop,MMC,28-May-20,Remote,,5
+143,T0143,Khin Yadanar Oo,khinyadanaroo@wisarra.com,WSR,Finance/Account,SAP,Remote Hang Problem,MMC,29-May-20,29-May-20,Clean up recycle bin/ recent/ temp and prefetch on both PC and Remote Desktop,MMC,29-May-20,Remote,,6
+144,T0144,Myo Aung,myoaung@awba-group.com,MAI,Production,User Support,Outlook Send/Receive Error,NDH,28-May-20,29-May-20,Office Repair and Outlook Profile Resetup,NDH,29-May-20,Remote,,5
+145,T0145,Thaw Zin,thawzin@wisarra.com,WSR,Marketing,User Support,Outlook Receive Error and Rule Issue,NDH,29-May-20,29-May-20,Outook Profile Re-Setp and Rule Trainin and Checking,NDH,29-May-20,Remote,,6
+146,T0146,Zin Maung Maung,zinmaungmaung@wisarra.com,WSR,Marketing,User Support,Excel file screen share issue in Team,NDH,29-May-20,29-May-20,Excel Screen share training and checking,NDH,29-May-20,Remote,,6
+147,T0147,Myo Nyunt,myonyunt@wisarra.com,WSR,Marketing,User Support,Excel file screen share issue in Team,NDH,29-May-20,29-May-20,Excel Screen share training and checking,NDH,29-May-20,Remote,,6
+148,T0148,Thet Zin Aung,thetzinaung@wisarra.email,WSR,Marketing,User Support,Outlook Send/Receive Error,NDH,29-May-20,29-May-20,Outlook Setting Change,NDH,29-May-20,Remote,,6

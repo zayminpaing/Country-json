@@ -1,0 +1,30 @@
+No.,Ticket ID,User name,Email/Ph:,Company,Department,Project Name,Issue Description ,Assign Person,Open Date ,Resolved Date ,Resolution,Solved by,Close Date,Support Type,Remark,DOW
+1,T0001,Khin Soe Myat Thandar,khinsoemyatthandar@awba-group.com,MAI,Finance/Account,User Support,Scanner Software Install,AKM,23-Apr-20,23-Apr-20,Scanner Software Install,AKM,23-Apr-20,Remote,,5
+2,T0002,Kyaw Khaing,kyawkhaing@mktk-agri.com,MKTK,Marketing,User Support,outlook issue,AKM,23-Apr-20,23-Apr-20,re-setup email in outlook,AKM,23-Apr-20,Remote,,5
+3,T0003,Aung Kyaw Tun,aungkyawtun@awba-group.email,Awba,Marketing,User Support,office unlicense,AKM,23-Apr-20,23-Apr-20,office crack,AKM,23-Apr-20,Remote,,5
+4,T0004,Khin Thet Htar Nwe,thethtar.mai@awba-group.com,MAI,Finance/Account,User Support,Scanner Software Install,AKM,24-Apr-20,24-Apr-20,Scanner Software Install,AKM,24-Apr-20,Remote,,6
+5,T0005,Ko Naing Ye Kyaw,naingyekyaw@wisarra.com,WSR,Production,User Support,Team Error,NDH,24-Apr-20,24-Apr-20,Re-login Team,NDH,24-Apr-20,Remote,,6
+6,T0006,Soe Lin Zaw,soelinzaw@wisarra.email,WSR,Marketing,User Support,outlook issue,WNWH,24-Apr-20,24-Apr-20,Outlook Sendand Received fixed,WNWH,24-Apr-20,Remote,,6
+7,T0007,Sithu Lwin,sithulwin@wisarra.email,Awba,Marketing,User Support,Myanmar Font Issue,WNWH,24-Apr-20,24-Apr-20,Myanmar Font Install,WNWH,24-Apr-20,Remote,,6
+8,T0008,Khine Ei Ei Phyoe,khineeieiphyoe@mktk-agri.com,MKTK,Finance/Account,User Support,Teams Training,WNWH,24-Apr-20,24-Apr-20,Teams Training,WNWH,24-Apr-20,Remote,,6
+9,T0009,Nyein Nyein Ei,nyeinnyeinei@awba-group.email,MAI,Finance/Account,User Support,Scanner Software Install,AKM,24-Apr-20,24-Apr-20,Scanner Software Install,AKM,24-Apr-20,Remote,,6
+10,T0010,Saw Htwe,sawhtweaye@awba-group.com,Awba,Finance/Account,User Support,office unlicense,WNWH,24-Apr-20,24-Apr-20,office crack,WNWH,24-Apr-20,Remote,,6
+11,T0011,Zin Wint Phyu,zinwintphyu@mktk-agri.com,MKTK,Finance/Account,User Support,Team Installation/ Office unlicense/ Clean Temp files,NDH,24-Apr-20,24-Apr-20,Team Install/ Office crack/ Clean Temp files,NDH,24-Apr-20,Remote,,6
+12,T0012,Soe Min Thant,smt@awba-group.com,Awba Group,Finance/Account,User Support,Gmail Send/receive error in outlook,KSL,24-Apr-20,24-Apr-20,Less secure app access --- (On),KSL,24-Apr-20,Remote,,6
+13,T0013,Nang Hnin Ou,nanghninou@awba-group.com,Awba Group,Internal Audit,User Support,Team and Zoom Training,KSl,24-Apr-20,24-Apr-20,By Remote,KSL,24-Apr-20,Remote,,6
+14,T0014,Hnin Hnin Htet,hninhninhtet@awba-group.com,Awba,Customer Service/Order Processor,User Support,Outlook profile re-setup,NDH,27-Apr-20,27-Apr-20,Outlook profile re-setup,NDH,27-Apr-20,Remote,,2
+15,T0015,Zaw Myo Naing,zawmyonaing@evo-gor.com,Evo,Marketing,User Support,Team Error and Internet Browser Error,WNWH,27-Apr-20,27-Apr-20,RE-login Team and Internet Setting fixed,WNWH,27-Apr-20,Remote,,2
+16,T0016,Aye Sandar,ayesandar@mktk-agri.com,MKTK,Finance/Account,User Support,Team Installation,NDH,27-Apr-20,27-Apr-20,Team Install,NDH,27-Apr-20,Remote,,2
+17,T0017,Pakoak Ku Sale Center,pakoakkusalecenter@awba-group.email,Awba,Marketing,User Support,Unicode font install,AKM,27-Apr-20,27-Apr-20,Unicode font install,AKM,27-Apr-20,Remote,,2
+18,T0018,Zin Mar Lwin Htay,zinmarlwinhtay@myanmarsanpya.com,MSCN,Admin,User Support,Team Installation,NDH,27-Apr-20,27-Apr-20,Team Install and login,NDH,27-Apr-20,Remote,,2
+19,T0019,Phyo Ko Ko,phyokoko@wisarra.com,WSR,Marketing,User Support,Email Profile Setup/ Unicode Error/ Taskbar Setting fixed and Office Activate ,NDH,28-Apr-20,28-Apr-20,Email profile re-setup/ Unicode install/ taskbar change and Office activate,NDH,28-Apr-20,Remote,,3
+20,T0020,Aye Min Htaik,ayeminhtaik@awba-group.email,Awba,Marketing,user Support,Unicode Installation/ Product Activation Fail,NDH,28-Apr-20,28-Apr-20,Unicode Install/ Office Activate,NDH,28-Apr-20,Remote,,3
+21,T0021,Martin Weiss,martin.weiss@awba-group.com ,MAFSCO,Management,User Support,Spam/phishing email inquiry,JTNS,28-Apr-20,28-Apr-20,Confirmed spam and provide doc to block sender,JTNS,28-Apr-20,Remote,,3
+22,T0022,Clare,clare@mahamatealliance.com,Mahamate,Marketing,User Support,Teams Error,AKM,29-Apr-20,29-Apr-20,Teams uninstall and install,AKM,29-Apr-20,Remote,,4
+23,T0023,Jin Young Choi,jinyoungchoi@awba-group.com,Mahamate,Management,User Support,Teams cannot sharing,AKM,29-Apr-20,29-Apr-20,Teams using desktop application,AKM,29-Apr-20,Teams call,,4
+24,T0024,Thidar Moe,thidarmoe@awba-group.com,Awba,Finance/Account,User Support,SAP desktop not response,AKM,29-Apr-20,29-Apr-20,End task SAP from task manager,AKM,29-Apr-20,Remote,,4
+25,T0025,Lae Lae Aung,laelaeaung@pt-pyaezone.com,PTPZ,Finance/Account,User Support,office unlicense,AKM,29-Apr-20,29-Apr-20,office crack,AKM,29-Apr-20,Remote,,4
+26,T0026,Hnin Hnin Htet,hninhninhtet@awba-group.com,Awba,Customer Service/Order Processor,User Support,Email Send/ Receive Error,NDH,29-Apr-20,29-Apr-20,Outlook profile re-setup,NDH,29-Apr-20,Remote,,4
+27,T0027,Nay Lin,naylin@awba-group.email,Awba,Marketing,User Support,Office Unlicensed/ Window Unlicensed/ Unicode Installation,NDH,29-Apr-20,29-Apr-20,Office Crack/ Window Crack/ Unicode Install,NDH,29-Apr-20,Remote,,4
+28,T0028,Aye Sandar,ayesandar@mktk-agri.com,MKTK,Finance/Account,User Support,Remote Desktop Mission,AKM,30-Apr-20,30-Apr-20,using mstsc on run box,AKM,30-Apr-20,Phone Call,,5
+29,T0029,Thae Phyu Soe,thaephyusoe.mai@awba-group.com,MAI,Finance/Account,User Support,Window Unlicense/ Office Unlicense/ Window 10 Update,NDH,30-Apr-20,30-Apr-20,Window Crack/ Office Crack/ Window 10 Update,NDH,30-Apr-20,Remote,,5
